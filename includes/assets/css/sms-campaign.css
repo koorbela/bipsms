@@ -1,0 +1,234 @@
+/* SMS kampány stílusok */
+.fcbip-campaign-container {
+    margin: 20px 0;
+}
+.fcbip-form-row {
+    margin-bottom: 15px;
+}
+.fcbip-form-row label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.fcbip-form-row input[type="text"],
+.fcbip-form-row select,
+.fcbip-form-row textarea {
+    width: 100%;
+    max-width: 600px;
+}
+.fcbip-form-row textarea {
+    min-height: 150px;
+}
+.fcbip-text-info {
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+}
+.fcbip-stats-box {
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.fcbip-stats-item {
+    display: inline-block;
+    margin-right: 20px;
+}
+.fcbip-stats-number {
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+.fcbip-stats-label {
+    color: #666;
+    font-size: 13px;
+}
+.fcbip-preview-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #fff;
+    max-width: 300px;
+    min-height: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.fcbip-campaign-list {
+    margin-top: 20px;
+}
+.fcbip-campaign-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.fcbip-campaign-list th, 
+.fcbip-campaign-list td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+.fcbip-campaign-list th {
+    background-color: #f2f2f2;
+}
+.fcbip-tab-nav {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.fcbip-tab-nav a {
+    display: inline-block;
+    padding: 8px 15px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-bottom: none;
+}
+.fcbip-tab-nav a.active {
+    background: #fff;
+    border-bottom: 1px solid #fff;
+    margin-bottom: -1px;
+}
+.target-selector {
+    display: none;
+}
+.sms-preview-container {
+    margin: 20px 0;
+    min-height: 100px;
+}
+.sms-preview-box {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    max-width: 300px;
+}
+.fcbip-button-row {
+    margin: 20px 0;
+}
+.fcbip-test-sms-section {
+    margin-top: 30px;
+    padding: 15px;
+    background: #f8f8f8;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+}
+.fcbip-form-group {
+    margin-bottom: 15px;
+}
+.fcbip-form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.fcbip-form-group input[type="text"] {
+    width: 250px;
+    margin-right: 10px;
+}
+
+/* ÚJ CSS KÓDOK A JELENTÉSEKHEZ - CODY JAVASLATA ALAPJÁN */
+.fcbip-statistics-cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0;
+    gap: 15px;
+}
+
+.fcbip-stat-card {
+    background: #fff;
+    border: 1px solid #e2e4e7;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    padding: 15px;
+    min-width: 150px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.fcbip-stat-title {
+    font-size: 14px;
+    color: #636363;
+    margin-bottom: 10px;
+}
+
+.fcbip-stat-value {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+}
+
+.fcbip-report-table-wrapper {
+    margin-top: 30px;
+}
+
+.fcbip-status-delivered {
+    color: #46b450;
+    font-weight: 500;
+}
+
+.fcbip-status-failed {
+    color: #dc3232;
+    font-weight: 500;
+}
+
+.fcbip-status-pending {
+    color: #ffb900;
+    font-weight: 500;
+}
+
+.fcbip-status-draft {
+    color: #72aee6;
+}
+
+.fcbip-status-scheduled {
+    color: #2271b1;
+}
+
+.fcbip-status-processing {
+    color: #f0c33c;
+}
+
+.fcbip-status-sent {
+    color: #00a32a;
+}
+
+.fcbip-campaign-details {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #e2e4e7;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.fcbip-admin-dashboard-stats {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #e2e4e7;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.fcbip-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.fcbip-stat-rate {
+    font-size: 14px;
+    color: #2271b1;
+}
+
+/* Reszponzív táblázatok */
+@media screen and (max-width: 782px) {
+    .fcbip-statistics-cards {
+        flex-direction: column;
+    }
+    
+    .fcbip-stat-card {
+        width: 100%;
+    }
+    
+    .fcbip-stats-grid {
+        grid-template-columns: 1fr;
+    }
+}

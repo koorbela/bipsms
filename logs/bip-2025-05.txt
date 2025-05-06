@@ -1,0 +1,24 @@
+2025-05-06 11:30:44 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=tesz%2520sms%2520sz%25C3%25B6vege&number=36307860808&senderid=&referenceid=2-212&callback=ALL
+2025-05-06 11:30:45 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-05-06 11:31:35 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=teszt%2520sms%2520sz%25C3%25B6vege%2520%25C3%25BAgy%252C%2520hogy%2520m%25C5%25B1k%25C3%25B6dj%25C3%25B6n%2520norm%25C3%25A1lisan&number=36307860808&senderid=
+2025-05-06 11:31:35 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-05-06 11:40:55 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=na%2520n%25C3%25A9zz%25C3%25BCk%252C%2520hogy%2520most%2520j%25C3%25B3l%2520m%25C5%25B1k%25C3%25B6dik-e&number=36307860808&senderid=
+2025-05-06 11:40:55 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)

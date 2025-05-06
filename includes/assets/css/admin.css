@@ -1,0 +1,23 @@
+/* SMS kampány jelentés stílusok */
+.fcbip-status {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.fcbip-status.status-success {
+    background-color: #e3f9e5;
+    color: #216e36;
+}
+
+.fcbip-status.status-failed {
+    background-color: #fce8e8;
+    color: #e93c3c;
+}
+
+.fcbip-status.status-pending {
+    background-color: #fff8e6;
+    color: #b68d00;
+}

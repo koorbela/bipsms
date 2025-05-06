@@ -1,0 +1,2191 @@
+[2025-05-06 11:31:17] Initializing plugin - FluentCRM is active
+[2025-05-06 11:31:17] Successfully loaded: class-db-manager.php
+[2025-05-06 11:31:17] Successfully loaded: class-status-manager.php
+[2025-05-06 11:31:17] Successfully loaded: class-sms-service.php
+[2025-05-06 11:31:17] Successfully loaded: class-admin.php
+[2025-05-06 11:31:17] Initializing Admin class
+[2025-05-06 11:31:17] Initializing FluentCRM Hooks class
+[2025-05-06 11:31:17] Plugin initialization completed successfully
+[2025-05-06 11:31:17] Initializing plugin - FluentCRM is active
+[2025-05-06 11:31:17] Successfully loaded: class-db-manager.php
+[2025-05-06 11:31:17] Successfully loaded: class-status-manager.php
+[2025-05-06 11:31:17] Successfully loaded: class-sms-service.php
+[2025-05-06 11:31:17] Successfully loaded: class-admin.php
+[2025-05-06 11:31:17] Initializing Admin class
+[2025-05-06 11:31:17] Initializing FluentCRM Hooks class
+[2025-05-06 11:31:17] Plugin initialization completed successfully
+[2025-05-06 11:31:17] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:31:18] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:31:18] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:31:18] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:31:18] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:31:18] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:31:34] Initializing plugin - FluentCRM is active
+[2025-05-06 11:31:34] Successfully loaded: class-db-manager.php
+[2025-05-06 11:31:34] Successfully loaded: class-status-manager.php
+[2025-05-06 11:31:34] Successfully loaded: class-sms-service.php
+[2025-05-06 11:31:34] Successfully loaded: class-admin.php
+[2025-05-06 11:31:34] Initializing Admin class
+[2025-05-06 11:31:34] Initializing FluentCRM Hooks class
+[2025-05-06 11:31:34] Plugin initialization completed successfully
+[2025-05-06 11:31:34] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:31:34] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:31:34] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:31:35] Eredeti telefonszám formázása eredménye: 36307860808
+[2025-05-06 11:31:35] Formatted phone number: 36307860808
+[2025-05-06 11:31:35] Initializing plugin - FluentCRM is active
+[2025-05-06 11:31:35] Successfully loaded: class-db-manager.php
+[2025-05-06 11:31:35] Successfully loaded: class-status-manager.php
+[2025-05-06 11:31:35] Successfully loaded: class-sms-service.php
+[2025-05-06 11:31:35] Successfully loaded: class-admin.php
+[2025-05-06 11:31:35] Initializing Admin class
+[2025-05-06 11:31:35] Initializing FluentCRM Hooks class
+[2025-05-06 11:31:35] Plugin initialization completed successfully
+[2025-05-06 11:31:35] API Response: Array
+(
+    [result] => OK
+    [code] => 0
+    [message] => A kérést sikeresen teljesítettük
+    [price] => 15.9
+    [split] => 1
+)
+
+[2025-05-06 11:31:35] SMS sent successfully to 36307860808
+[2025-05-06 11:31:35] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:31:36] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:31:36] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:31:51] Initializing plugin - FluentCRM is active
+[2025-05-06 11:31:51] Successfully loaded: class-db-manager.php
+[2025-05-06 11:31:51] Successfully loaded: class-status-manager.php
+[2025-05-06 11:31:51] Successfully loaded: class-sms-service.php
+[2025-05-06 11:31:51] Successfully loaded: class-admin.php
+[2025-05-06 11:31:51] Initializing Admin class
+[2025-05-06 11:31:51] Initializing FluentCRM Hooks class
+[2025-05-06 11:31:51] Plugin initialization completed successfully
+[2025-05-06 11:31:51] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:31:51] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:31:51] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:31:51] Initializing plugin - FluentCRM is active
+[2025-05-06 11:31:51] Successfully loaded: class-db-manager.php
+[2025-05-06 11:31:51] Successfully loaded: class-status-manager.php
+[2025-05-06 11:31:51] Successfully loaded: class-sms-service.php
+[2025-05-06 11:31:51] Successfully loaded: class-admin.php
+[2025-05-06 11:31:51] Initializing Admin class
+[2025-05-06 11:31:51] Initializing FluentCRM Hooks class
+[2025-05-06 11:31:51] Plugin initialization completed successfully
+[2025-05-06 11:31:52] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:31:52] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:31:52] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:31:54] Initializing plugin - FluentCRM is active
+[2025-05-06 11:31:54] Successfully loaded: class-db-manager.php
+[2025-05-06 11:31:54] Successfully loaded: class-status-manager.php
+[2025-05-06 11:31:54] Successfully loaded: class-sms-service.php
+[2025-05-06 11:31:54] Successfully loaded: class-admin.php
+[2025-05-06 11:31:54] Initializing Admin class
+[2025-05-06 11:31:54] Initializing FluentCRM Hooks class
+[2025-05-06 11:31:54] Plugin initialization completed successfully
+[2025-05-06 11:31:55] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:31:55] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:31:55] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:33:57] Initializing plugin - FluentCRM is active
+[2025-05-06 11:33:57] Successfully loaded: class-db-manager.php
+[2025-05-06 11:33:57] Successfully loaded: class-status-manager.php
+[2025-05-06 11:33:57] Successfully loaded: class-sms-service.php
+[2025-05-06 11:33:57] Successfully loaded: class-admin.php
+[2025-05-06 11:33:57] Initializing Admin class
+[2025-05-06 11:33:57] Initializing FluentCRM Hooks class
+[2025-05-06 11:33:57] Plugin initialization completed successfully
+[2025-05-06 11:33:57] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:33:58] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:33:58] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:33:59] Initializing plugin - FluentCRM is active
+[2025-05-06 11:33:59] Successfully loaded: class-db-manager.php
+[2025-05-06 11:33:59] Successfully loaded: class-status-manager.php
+[2025-05-06 11:33:59] Successfully loaded: class-sms-service.php
+[2025-05-06 11:33:59] Successfully loaded: class-admin.php
+[2025-05-06 11:33:59] Initializing Admin class
+[2025-05-06 11:33:59] Initializing FluentCRM Hooks class
+[2025-05-06 11:33:59] Plugin initialization completed successfully
+[2025-05-06 11:33:59] Initializing plugin - FluentCRM is active
+[2025-05-06 11:33:59] Successfully loaded: class-db-manager.php
+[2025-05-06 11:33:59] Successfully loaded: class-status-manager.php
+[2025-05-06 11:33:59] Successfully loaded: class-sms-service.php
+[2025-05-06 11:33:59] Successfully loaded: class-admin.php
+[2025-05-06 11:33:59] Initializing Admin class
+[2025-05-06 11:33:59] Initializing FluentCRM Hooks class
+[2025-05-06 11:33:59] Plugin initialization completed successfully
+[2025-05-06 11:33:59] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:33:59] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:34:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:34:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:34:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:34:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:35:58] Initializing plugin - FluentCRM is active
+[2025-05-06 11:35:58] Successfully loaded: class-db-manager.php
+[2025-05-06 11:35:58] Successfully loaded: class-status-manager.php
+[2025-05-06 11:35:58] Successfully loaded: class-sms-service.php
+[2025-05-06 11:35:58] Successfully loaded: class-admin.php
+[2025-05-06 11:35:58] Initializing Admin class
+[2025-05-06 11:35:58] Initializing FluentCRM Hooks class
+[2025-05-06 11:35:58] Plugin initialization completed successfully
+[2025-05-06 11:35:58] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:35:59] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:35:59] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:35:59] Initializing plugin - FluentCRM is active
+[2025-05-06 11:35:59] Successfully loaded: class-db-manager.php
+[2025-05-06 11:35:59] Successfully loaded: class-status-manager.php
+[2025-05-06 11:35:59] Successfully loaded: class-sms-service.php
+[2025-05-06 11:35:59] Successfully loaded: class-admin.php
+[2025-05-06 11:35:59] Initializing Admin class
+[2025-05-06 11:35:59] Initializing FluentCRM Hooks class
+[2025-05-06 11:35:59] Plugin initialization completed successfully
+[2025-05-06 11:35:59] Initializing plugin - FluentCRM is active
+[2025-05-06 11:35:59] Successfully loaded: class-db-manager.php
+[2025-05-06 11:35:59] Successfully loaded: class-status-manager.php
+[2025-05-06 11:35:59] Successfully loaded: class-sms-service.php
+[2025-05-06 11:35:59] Successfully loaded: class-admin.php
+[2025-05-06 11:35:59] Initializing Admin class
+[2025-05-06 11:35:59] Initializing FluentCRM Hooks class
+[2025-05-06 11:35:59] Plugin initialization completed successfully
+[2025-05-06 11:35:59] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:36:00] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:36:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:36:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:36:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:36:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:37:59] Initializing plugin - FluentCRM is active
+[2025-05-06 11:37:59] Successfully loaded: class-db-manager.php
+[2025-05-06 11:37:59] Successfully loaded: class-status-manager.php
+[2025-05-06 11:37:59] Successfully loaded: class-sms-service.php
+[2025-05-06 11:37:59] Successfully loaded: class-admin.php
+[2025-05-06 11:37:59] Initializing Admin class
+[2025-05-06 11:37:59] Initializing FluentCRM Hooks class
+[2025-05-06 11:37:59] Plugin initialization completed successfully
+[2025-05-06 11:37:59] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:37:59] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:37:59] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:37:59] Initializing plugin - FluentCRM is active
+[2025-05-06 11:37:59] Successfully loaded: class-db-manager.php
+[2025-05-06 11:37:59] Successfully loaded: class-status-manager.php
+[2025-05-06 11:37:59] Successfully loaded: class-sms-service.php
+[2025-05-06 11:37:59] Successfully loaded: class-admin.php
+[2025-05-06 11:37:59] Initializing Admin class
+[2025-05-06 11:37:59] Initializing FluentCRM Hooks class
+[2025-05-06 11:37:59] Plugin initialization completed successfully
+[2025-05-06 11:38:00] Initializing plugin - FluentCRM is active
+[2025-05-06 11:38:00] Successfully loaded: class-db-manager.php
+[2025-05-06 11:38:00] Successfully loaded: class-status-manager.php
+[2025-05-06 11:38:00] Successfully loaded: class-sms-service.php
+[2025-05-06 11:38:00] Successfully loaded: class-admin.php
+[2025-05-06 11:38:00] Initializing Admin class
+[2025-05-06 11:38:00] Initializing FluentCRM Hooks class
+[2025-05-06 11:38:00] Plugin initialization completed successfully
+[2025-05-06 11:38:00] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:38:00] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:38:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:38:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:38:01] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:38:01] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:40:00] Initializing plugin - FluentCRM is active
+[2025-05-06 11:40:00] Successfully loaded: class-db-manager.php
+[2025-05-06 11:40:00] Successfully loaded: class-status-manager.php
+[2025-05-06 11:40:00] Successfully loaded: class-sms-service.php
+[2025-05-06 11:40:00] Successfully loaded: class-admin.php
+[2025-05-06 11:40:00] Initializing Admin class
+[2025-05-06 11:40:00] Initializing FluentCRM Hooks class
+[2025-05-06 11:40:00] Plugin initialization completed successfully
+[2025-05-06 11:40:00] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:40:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:40:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:40:00] Initializing plugin - FluentCRM is active
+[2025-05-06 11:40:00] Successfully loaded: class-db-manager.php
+[2025-05-06 11:40:00] Successfully loaded: class-status-manager.php
+[2025-05-06 11:40:00] Successfully loaded: class-sms-service.php
+[2025-05-06 11:40:00] Successfully loaded: class-admin.php
+[2025-05-06 11:40:00] Initializing Admin class
+[2025-05-06 11:40:00] Initializing FluentCRM Hooks class
+[2025-05-06 11:40:00] Plugin initialization completed successfully
+[2025-05-06 11:40:01] Initializing plugin - FluentCRM is active
+[2025-05-06 11:40:01] Successfully loaded: class-db-manager.php
+[2025-05-06 11:40:01] Successfully loaded: class-status-manager.php
+[2025-05-06 11:40:01] Successfully loaded: class-sms-service.php
+[2025-05-06 11:40:01] Successfully loaded: class-admin.php
+[2025-05-06 11:40:01] Initializing Admin class
+[2025-05-06 11:40:01] Initializing FluentCRM Hooks class
+[2025-05-06 11:40:01] Plugin initialization completed successfully
+[2025-05-06 11:40:01] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:40:01] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:40:01] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:40:01] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:40:02] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:40:02] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:40:41] Initializing plugin - FluentCRM is active
+[2025-05-06 11:40:41] Successfully loaded: class-db-manager.php
+[2025-05-06 11:40:41] Successfully loaded: class-status-manager.php
+[2025-05-06 11:40:41] Successfully loaded: class-sms-service.php
+[2025-05-06 11:40:41] Successfully loaded: class-admin.php
+[2025-05-06 11:40:41] Initializing Admin class
+[2025-05-06 11:40:41] Initializing FluentCRM Hooks class
+[2025-05-06 11:40:41] Plugin initialization completed successfully
+[2025-05-06 11:40:41] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:40:41] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:40:41] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:40:42] Initializing plugin - FluentCRM is active
+[2025-05-06 11:40:42] Successfully loaded: class-db-manager.php
+[2025-05-06 11:40:42] Successfully loaded: class-status-manager.php
+[2025-05-06 11:40:42] Successfully loaded: class-sms-service.php
+[2025-05-06 11:40:42] Successfully loaded: class-admin.php
+[2025-05-06 11:40:42] Initializing Admin class
+[2025-05-06 11:40:42] Initializing FluentCRM Hooks class
+[2025-05-06 11:40:42] Plugin initialization completed successfully
+[2025-05-06 11:40:42] Initializing plugin - FluentCRM is active
+[2025-05-06 11:40:42] Successfully loaded: class-db-manager.php
+[2025-05-06 11:40:42] Successfully loaded: class-status-manager.php
+[2025-05-06 11:40:42] Successfully loaded: class-sms-service.php
+[2025-05-06 11:40:42] Successfully loaded: class-admin.php
+[2025-05-06 11:40:42] Initializing Admin class
+[2025-05-06 11:40:42] Initializing FluentCRM Hooks class
+[2025-05-06 11:40:42] Plugin initialization completed successfully
+[2025-05-06 11:40:42] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:40:42] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:40:43] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:40:43] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:40:43] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:40:43] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:40:54] Initializing plugin - FluentCRM is active
+[2025-05-06 11:40:54] Successfully loaded: class-db-manager.php
+[2025-05-06 11:40:54] Successfully loaded: class-status-manager.php
+[2025-05-06 11:40:54] Successfully loaded: class-sms-service.php
+[2025-05-06 11:40:54] Successfully loaded: class-admin.php
+[2025-05-06 11:40:54] Initializing Admin class
+[2025-05-06 11:40:54] Initializing FluentCRM Hooks class
+[2025-05-06 11:40:54] Plugin initialization completed successfully
+[2025-05-06 11:40:54] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:40:54] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:40:54] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:40:55] Eredeti telefonszám formázása eredménye: 36307860808
+[2025-05-06 11:40:55] Formatted phone number: 36307860808
+[2025-05-06 11:40:55] Initializing plugin - FluentCRM is active
+[2025-05-06 11:40:55] Successfully loaded: class-db-manager.php
+[2025-05-06 11:40:55] Successfully loaded: class-status-manager.php
+[2025-05-06 11:40:55] Successfully loaded: class-sms-service.php
+[2025-05-06 11:40:55] Successfully loaded: class-admin.php
+[2025-05-06 11:40:55] Initializing Admin class
+[2025-05-06 11:40:55] Initializing FluentCRM Hooks class
+[2025-05-06 11:40:55] Plugin initialization completed successfully
+[2025-05-06 11:40:55] API Response: Array
+(
+    [result] => OK
+    [code] => 0
+    [message] => A kérést sikeresen teljesítettük
+    [price] => 15.9
+    [split] => 1
+)
+
+[2025-05-06 11:40:55] SMS sent successfully to 36307860808
+[2025-05-06 11:40:55] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:40:55] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:40:55] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:41:06] Initializing plugin - FluentCRM is active
+[2025-05-06 11:41:06] Successfully loaded: class-db-manager.php
+[2025-05-06 11:41:06] Successfully loaded: class-status-manager.php
+[2025-05-06 11:41:06] Successfully loaded: class-sms-service.php
+[2025-05-06 11:41:06] Successfully loaded: class-admin.php
+[2025-05-06 11:41:06] Initializing Admin class
+[2025-05-06 11:41:06] Initializing FluentCRM Hooks class
+[2025-05-06 11:41:06] Plugin initialization completed successfully
+[2025-05-06 11:41:07] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:41:07] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:41:07] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:41:08] Initializing plugin - FluentCRM is active
+[2025-05-06 11:41:08] Successfully loaded: class-db-manager.php
+[2025-05-06 11:41:08] Successfully loaded: class-status-manager.php
+[2025-05-06 11:41:08] Successfully loaded: class-sms-service.php
+[2025-05-06 11:41:08] Successfully loaded: class-admin.php
+[2025-05-06 11:41:08] Initializing Admin class
+[2025-05-06 11:41:08] Initializing FluentCRM Hooks class
+[2025-05-06 11:41:08] Plugin initialization completed successfully
+[2025-05-06 11:41:08] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:41:08] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:41:08] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:41:08] Initializing plugin - FluentCRM is active
+[2025-05-06 11:41:08] Successfully loaded: class-db-manager.php
+[2025-05-06 11:41:08] Successfully loaded: class-status-manager.php
+[2025-05-06 11:41:08] Successfully loaded: class-sms-service.php
+[2025-05-06 11:41:08] Successfully loaded: class-admin.php
+[2025-05-06 11:41:08] Initializing Admin class
+[2025-05-06 11:41:08] Initializing FluentCRM Hooks class
+[2025-05-06 11:41:08] Plugin initialization completed successfully
+[2025-05-06 11:41:09] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:41:09] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:41:09] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:43:10] Initializing plugin - FluentCRM is active
+[2025-05-06 11:43:10] Successfully loaded: class-db-manager.php
+[2025-05-06 11:43:10] Successfully loaded: class-status-manager.php
+[2025-05-06 11:43:10] Successfully loaded: class-sms-service.php
+[2025-05-06 11:43:10] Successfully loaded: class-admin.php
+[2025-05-06 11:43:10] Initializing Admin class
+[2025-05-06 11:43:10] Initializing FluentCRM Hooks class
+[2025-05-06 11:43:10] Plugin initialization completed successfully
+[2025-05-06 11:43:10] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:43:10] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:43:10] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:43:10] Initializing plugin - FluentCRM is active
+[2025-05-06 11:43:10] Successfully loaded: class-db-manager.php
+[2025-05-06 11:43:10] Successfully loaded: class-status-manager.php
+[2025-05-06 11:43:10] Successfully loaded: class-sms-service.php
+[2025-05-06 11:43:10] Successfully loaded: class-admin.php
+[2025-05-06 11:43:10] Initializing Admin class
+[2025-05-06 11:43:10] Initializing FluentCRM Hooks class
+[2025-05-06 11:43:10] Plugin initialization completed successfully
+[2025-05-06 11:43:11] Initializing plugin - FluentCRM is active
+[2025-05-06 11:43:11] Successfully loaded: class-db-manager.php
+[2025-05-06 11:43:11] Successfully loaded: class-status-manager.php
+[2025-05-06 11:43:11] Successfully loaded: class-sms-service.php
+[2025-05-06 11:43:11] Successfully loaded: class-admin.php
+[2025-05-06 11:43:11] Initializing Admin class
+[2025-05-06 11:43:11] Initializing FluentCRM Hooks class
+[2025-05-06 11:43:11] Plugin initialization completed successfully
+[2025-05-06 11:43:11] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:43:11] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:43:11] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:43:11] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:43:12] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:43:12] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:45:11] Initializing plugin - FluentCRM is active
+[2025-05-06 11:45:11] Successfully loaded: class-db-manager.php
+[2025-05-06 11:45:11] Successfully loaded: class-status-manager.php
+[2025-05-06 11:45:11] Successfully loaded: class-sms-service.php
+[2025-05-06 11:45:11] Successfully loaded: class-admin.php
+[2025-05-06 11:45:11] Initializing Admin class
+[2025-05-06 11:45:11] Initializing FluentCRM Hooks class
+[2025-05-06 11:45:11] Plugin initialization completed successfully
+[2025-05-06 11:45:11] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:45:11] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:45:11] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:45:11] Initializing plugin - FluentCRM is active
+[2025-05-06 11:45:11] Successfully loaded: class-db-manager.php
+[2025-05-06 11:45:11] Successfully loaded: class-status-manager.php
+[2025-05-06 11:45:11] Successfully loaded: class-sms-service.php
+[2025-05-06 11:45:11] Successfully loaded: class-admin.php
+[2025-05-06 11:45:11] Initializing Admin class
+[2025-05-06 11:45:11] Initializing FluentCRM Hooks class
+[2025-05-06 11:45:11] Plugin initialization completed successfully
+[2025-05-06 11:45:12] Initializing plugin - FluentCRM is active
+[2025-05-06 11:45:12] Successfully loaded: class-db-manager.php
+[2025-05-06 11:45:12] Successfully loaded: class-status-manager.php
+[2025-05-06 11:45:12] Successfully loaded: class-sms-service.php
+[2025-05-06 11:45:12] Successfully loaded: class-admin.php
+[2025-05-06 11:45:12] Initializing Admin class
+[2025-05-06 11:45:12] Initializing FluentCRM Hooks class
+[2025-05-06 11:45:12] Plugin initialization completed successfully
+[2025-05-06 11:45:12] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:45:12] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:45:12] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:45:12] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:45:13] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:45:13] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:47:12] Initializing plugin - FluentCRM is active
+[2025-05-06 11:47:12] Successfully loaded: class-db-manager.php
+[2025-05-06 11:47:12] Successfully loaded: class-status-manager.php
+[2025-05-06 11:47:12] Successfully loaded: class-sms-service.php
+[2025-05-06 11:47:12] Successfully loaded: class-admin.php
+[2025-05-06 11:47:12] Initializing Admin class
+[2025-05-06 11:47:12] Initializing FluentCRM Hooks class
+[2025-05-06 11:47:12] Plugin initialization completed successfully
+[2025-05-06 11:47:12] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:47:12] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:47:12] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:47:12] Initializing plugin - FluentCRM is active
+[2025-05-06 11:47:12] Successfully loaded: class-db-manager.php
+[2025-05-06 11:47:12] Successfully loaded: class-status-manager.php
+[2025-05-06 11:47:12] Successfully loaded: class-sms-service.php
+[2025-05-06 11:47:12] Successfully loaded: class-admin.php
+[2025-05-06 11:47:12] Initializing Admin class
+[2025-05-06 11:47:12] Initializing FluentCRM Hooks class
+[2025-05-06 11:47:12] Plugin initialization completed successfully
+[2025-05-06 11:47:13] Initializing plugin - FluentCRM is active
+[2025-05-06 11:47:13] Successfully loaded: class-db-manager.php
+[2025-05-06 11:47:13] Successfully loaded: class-status-manager.php
+[2025-05-06 11:47:13] Successfully loaded: class-sms-service.php
+[2025-05-06 11:47:13] Successfully loaded: class-admin.php
+[2025-05-06 11:47:13] Initializing Admin class
+[2025-05-06 11:47:13] Initializing FluentCRM Hooks class
+[2025-05-06 11:47:13] Plugin initialization completed successfully
+[2025-05-06 11:47:14] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:47:15] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:47:15] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:47:15] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:47:16] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:47:16] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:49:13] Initializing plugin - FluentCRM is active
+[2025-05-06 11:49:13] Successfully loaded: class-db-manager.php
+[2025-05-06 11:49:13] Successfully loaded: class-status-manager.php
+[2025-05-06 11:49:13] Successfully loaded: class-sms-service.php
+[2025-05-06 11:49:13] Successfully loaded: class-admin.php
+[2025-05-06 11:49:13] Initializing Admin class
+[2025-05-06 11:49:13] Initializing FluentCRM Hooks class
+[2025-05-06 11:49:13] Plugin initialization completed successfully
+[2025-05-06 11:49:13] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:49:14] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:49:14] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:49:15] Initializing plugin - FluentCRM is active
+[2025-05-06 11:49:15] Successfully loaded: class-db-manager.php
+[2025-05-06 11:49:15] Successfully loaded: class-status-manager.php
+[2025-05-06 11:49:15] Successfully loaded: class-sms-service.php
+[2025-05-06 11:49:15] Successfully loaded: class-admin.php
+[2025-05-06 11:49:15] Initializing Admin class
+[2025-05-06 11:49:15] Initializing FluentCRM Hooks class
+[2025-05-06 11:49:15] Plugin initialization completed successfully
+[2025-05-06 11:49:16] Initializing plugin - FluentCRM is active
+[2025-05-06 11:49:16] Successfully loaded: class-db-manager.php
+[2025-05-06 11:49:16] Successfully loaded: class-status-manager.php
+[2025-05-06 11:49:16] Successfully loaded: class-sms-service.php
+[2025-05-06 11:49:16] Successfully loaded: class-admin.php
+[2025-05-06 11:49:16] Initializing Admin class
+[2025-05-06 11:49:16] Initializing FluentCRM Hooks class
+[2025-05-06 11:49:16] Plugin initialization completed successfully
+[2025-05-06 11:49:16] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:49:17] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:49:17] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:49:17] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:49:18] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:49:18] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:51:16] Initializing plugin - FluentCRM is active
+[2025-05-06 11:51:16] Successfully loaded: class-db-manager.php
+[2025-05-06 11:51:16] Successfully loaded: class-status-manager.php
+[2025-05-06 11:51:16] Successfully loaded: class-sms-service.php
+[2025-05-06 11:51:16] Successfully loaded: class-admin.php
+[2025-05-06 11:51:16] Initializing Admin class
+[2025-05-06 11:51:16] Initializing FluentCRM Hooks class
+[2025-05-06 11:51:16] Plugin initialization completed successfully
+[2025-05-06 11:51:16] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:51:17] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:51:17] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:51:17] Initializing plugin - FluentCRM is active
+[2025-05-06 11:51:17] Successfully loaded: class-db-manager.php
+[2025-05-06 11:51:17] Successfully loaded: class-status-manager.php
+[2025-05-06 11:51:17] Successfully loaded: class-sms-service.php
+[2025-05-06 11:51:17] Successfully loaded: class-admin.php
+[2025-05-06 11:51:17] Initializing Admin class
+[2025-05-06 11:51:17] Initializing FluentCRM Hooks class
+[2025-05-06 11:51:17] Plugin initialization completed successfully
+[2025-05-06 11:51:17] Initializing plugin - FluentCRM is active
+[2025-05-06 11:51:17] Successfully loaded: class-db-manager.php
+[2025-05-06 11:51:17] Successfully loaded: class-status-manager.php
+[2025-05-06 11:51:17] Successfully loaded: class-sms-service.php
+[2025-05-06 11:51:17] Successfully loaded: class-admin.php
+[2025-05-06 11:51:17] Initializing Admin class
+[2025-05-06 11:51:17] Initializing FluentCRM Hooks class
+[2025-05-06 11:51:17] Plugin initialization completed successfully
+[2025-05-06 11:51:17] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:51:18] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:51:18] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:51:18] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:51:19] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:51:19] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:53:16] Initializing plugin - FluentCRM is active
+[2025-05-06 11:53:16] Successfully loaded: class-db-manager.php
+[2025-05-06 11:53:16] Successfully loaded: class-status-manager.php
+[2025-05-06 11:53:16] Successfully loaded: class-sms-service.php
+[2025-05-06 11:53:16] Successfully loaded: class-admin.php
+[2025-05-06 11:53:16] Initializing Admin class
+[2025-05-06 11:53:16] Initializing FluentCRM Hooks class
+[2025-05-06 11:53:16] Plugin initialization completed successfully
+[2025-05-06 11:53:16] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:53:16] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:53:16] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:53:17] Initializing plugin - FluentCRM is active
+[2025-05-06 11:53:17] Successfully loaded: class-db-manager.php
+[2025-05-06 11:53:17] Successfully loaded: class-status-manager.php
+[2025-05-06 11:53:17] Successfully loaded: class-sms-service.php
+[2025-05-06 11:53:17] Successfully loaded: class-admin.php
+[2025-05-06 11:53:17] Initializing Admin class
+[2025-05-06 11:53:17] Initializing FluentCRM Hooks class
+[2025-05-06 11:53:17] Plugin initialization completed successfully
+[2025-05-06 11:53:17] Initializing plugin - FluentCRM is active
+[2025-05-06 11:53:17] Successfully loaded: class-db-manager.php
+[2025-05-06 11:53:17] Successfully loaded: class-status-manager.php
+[2025-05-06 11:53:17] Successfully loaded: class-sms-service.php
+[2025-05-06 11:53:17] Successfully loaded: class-admin.php
+[2025-05-06 11:53:17] Initializing Admin class
+[2025-05-06 11:53:17] Initializing FluentCRM Hooks class
+[2025-05-06 11:53:17] Plugin initialization completed successfully
+[2025-05-06 11:53:17] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:53:17] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:53:17] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:53:17] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:53:18] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:53:18] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:55:16] Initializing plugin - FluentCRM is active
+[2025-05-06 11:55:16] Successfully loaded: class-db-manager.php
+[2025-05-06 11:55:16] Successfully loaded: class-status-manager.php
+[2025-05-06 11:55:16] Successfully loaded: class-sms-service.php
+[2025-05-06 11:55:16] Successfully loaded: class-admin.php
+[2025-05-06 11:55:16] Initializing Admin class
+[2025-05-06 11:55:16] Initializing FluentCRM Hooks class
+[2025-05-06 11:55:16] Plugin initialization completed successfully
+[2025-05-06 11:55:16] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:55:17] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:55:17] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:55:17] Initializing plugin - FluentCRM is active
+[2025-05-06 11:55:17] Successfully loaded: class-db-manager.php
+[2025-05-06 11:55:17] Successfully loaded: class-status-manager.php
+[2025-05-06 11:55:17] Successfully loaded: class-sms-service.php
+[2025-05-06 11:55:17] Successfully loaded: class-admin.php
+[2025-05-06 11:55:17] Initializing Admin class
+[2025-05-06 11:55:17] Initializing FluentCRM Hooks class
+[2025-05-06 11:55:17] Plugin initialization completed successfully
+[2025-05-06 11:55:18] Initializing plugin - FluentCRM is active
+[2025-05-06 11:55:18] Successfully loaded: class-db-manager.php
+[2025-05-06 11:55:18] Successfully loaded: class-status-manager.php
+[2025-05-06 11:55:18] Successfully loaded: class-sms-service.php
+[2025-05-06 11:55:18] Successfully loaded: class-admin.php
+[2025-05-06 11:55:18] Initializing Admin class
+[2025-05-06 11:55:18] Initializing FluentCRM Hooks class
+[2025-05-06 11:55:18] Plugin initialization completed successfully
+[2025-05-06 11:55:18] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:55:18] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:55:19] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:55:19] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:55:19] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:55:19] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:57:18] Initializing plugin - FluentCRM is active
+[2025-05-06 11:57:18] Successfully loaded: class-db-manager.php
+[2025-05-06 11:57:18] Successfully loaded: class-status-manager.php
+[2025-05-06 11:57:18] Successfully loaded: class-sms-service.php
+[2025-05-06 11:57:18] Successfully loaded: class-admin.php
+[2025-05-06 11:57:18] Initializing Admin class
+[2025-05-06 11:57:18] Initializing FluentCRM Hooks class
+[2025-05-06 11:57:18] Plugin initialization completed successfully
+[2025-05-06 11:57:19] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:57:19] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:57:19] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:57:19] Initializing plugin - FluentCRM is active
+[2025-05-06 11:57:19] Successfully loaded: class-db-manager.php
+[2025-05-06 11:57:19] Successfully loaded: class-status-manager.php
+[2025-05-06 11:57:19] Successfully loaded: class-sms-service.php
+[2025-05-06 11:57:19] Successfully loaded: class-admin.php
+[2025-05-06 11:57:19] Initializing Admin class
+[2025-05-06 11:57:19] Initializing FluentCRM Hooks class
+[2025-05-06 11:57:19] Plugin initialization completed successfully
+[2025-05-06 11:57:20] Initializing plugin - FluentCRM is active
+[2025-05-06 11:57:20] Successfully loaded: class-db-manager.php
+[2025-05-06 11:57:20] Successfully loaded: class-status-manager.php
+[2025-05-06 11:57:20] Successfully loaded: class-sms-service.php
+[2025-05-06 11:57:20] Successfully loaded: class-admin.php
+[2025-05-06 11:57:20] Initializing Admin class
+[2025-05-06 11:57:20] Initializing FluentCRM Hooks class
+[2025-05-06 11:57:20] Plugin initialization completed successfully
+[2025-05-06 11:57:20] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:57:20] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:57:20] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:57:20] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:57:21] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:57:21] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:59:19] Initializing plugin - FluentCRM is active
+[2025-05-06 11:59:19] Successfully loaded: class-db-manager.php
+[2025-05-06 11:59:19] Successfully loaded: class-status-manager.php
+[2025-05-06 11:59:19] Successfully loaded: class-sms-service.php
+[2025-05-06 11:59:19] Successfully loaded: class-admin.php
+[2025-05-06 11:59:19] Initializing Admin class
+[2025-05-06 11:59:19] Initializing FluentCRM Hooks class
+[2025-05-06 11:59:19] Plugin initialization completed successfully
+[2025-05-06 11:59:19] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:59:19] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:59:19] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:59:19] Initializing plugin - FluentCRM is active
+[2025-05-06 11:59:19] Successfully loaded: class-db-manager.php
+[2025-05-06 11:59:19] Successfully loaded: class-status-manager.php
+[2025-05-06 11:59:19] Successfully loaded: class-sms-service.php
+[2025-05-06 11:59:19] Successfully loaded: class-admin.php
+[2025-05-06 11:59:19] Initializing Admin class
+[2025-05-06 11:59:19] Initializing FluentCRM Hooks class
+[2025-05-06 11:59:19] Plugin initialization completed successfully
+[2025-05-06 11:59:20] Initializing plugin - FluentCRM is active
+[2025-05-06 11:59:20] Successfully loaded: class-db-manager.php
+[2025-05-06 11:59:20] Successfully loaded: class-status-manager.php
+[2025-05-06 11:59:20] Successfully loaded: class-sms-service.php
+[2025-05-06 11:59:20] Successfully loaded: class-admin.php
+[2025-05-06 11:59:20] Initializing Admin class
+[2025-05-06 11:59:20] Initializing FluentCRM Hooks class
+[2025-05-06 11:59:20] Plugin initialization completed successfully
+[2025-05-06 11:59:20] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:59:20] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 11:59:20] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:59:20] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 11:59:21] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 11:59:21] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:01:19] Initializing plugin - FluentCRM is active
+[2025-05-06 12:01:19] Successfully loaded: class-db-manager.php
+[2025-05-06 12:01:19] Successfully loaded: class-status-manager.php
+[2025-05-06 12:01:19] Successfully loaded: class-sms-service.php
+[2025-05-06 12:01:19] Successfully loaded: class-admin.php
+[2025-05-06 12:01:19] Initializing Admin class
+[2025-05-06 12:01:19] Initializing FluentCRM Hooks class
+[2025-05-06 12:01:19] Plugin initialization completed successfully
+[2025-05-06 12:01:19] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:01:19] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:01:19] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:01:19] Initializing plugin - FluentCRM is active
+[2025-05-06 12:01:19] Successfully loaded: class-db-manager.php
+[2025-05-06 12:01:19] Successfully loaded: class-status-manager.php
+[2025-05-06 12:01:19] Successfully loaded: class-sms-service.php
+[2025-05-06 12:01:19] Successfully loaded: class-admin.php
+[2025-05-06 12:01:19] Initializing Admin class
+[2025-05-06 12:01:19] Initializing FluentCRM Hooks class
+[2025-05-06 12:01:19] Plugin initialization completed successfully
+[2025-05-06 12:01:20] Initializing plugin - FluentCRM is active
+[2025-05-06 12:01:20] Successfully loaded: class-db-manager.php
+[2025-05-06 12:01:20] Successfully loaded: class-status-manager.php
+[2025-05-06 12:01:20] Successfully loaded: class-sms-service.php
+[2025-05-06 12:01:20] Successfully loaded: class-admin.php
+[2025-05-06 12:01:20] Initializing Admin class
+[2025-05-06 12:01:20] Initializing FluentCRM Hooks class
+[2025-05-06 12:01:20] Plugin initialization completed successfully
+[2025-05-06 12:01:20] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:01:20] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:01:20] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:01:20] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:01:21] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:01:21] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:03:20] Initializing plugin - FluentCRM is active
+[2025-05-06 12:03:20] Successfully loaded: class-db-manager.php
+[2025-05-06 12:03:20] Successfully loaded: class-status-manager.php
+[2025-05-06 12:03:20] Successfully loaded: class-sms-service.php
+[2025-05-06 12:03:20] Successfully loaded: class-admin.php
+[2025-05-06 12:03:20] Initializing Admin class
+[2025-05-06 12:03:20] Initializing FluentCRM Hooks class
+[2025-05-06 12:03:20] Plugin initialization completed successfully
+[2025-05-06 12:03:20] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:03:20] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:03:20] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:03:20] Initializing plugin - FluentCRM is active
+[2025-05-06 12:03:20] Successfully loaded: class-db-manager.php
+[2025-05-06 12:03:20] Successfully loaded: class-status-manager.php
+[2025-05-06 12:03:20] Successfully loaded: class-sms-service.php
+[2025-05-06 12:03:20] Successfully loaded: class-admin.php
+[2025-05-06 12:03:20] Initializing Admin class
+[2025-05-06 12:03:20] Initializing FluentCRM Hooks class
+[2025-05-06 12:03:20] Plugin initialization completed successfully
+[2025-05-06 12:03:21] Initializing plugin - FluentCRM is active
+[2025-05-06 12:03:21] Successfully loaded: class-db-manager.php
+[2025-05-06 12:03:21] Successfully loaded: class-status-manager.php
+[2025-05-06 12:03:21] Successfully loaded: class-sms-service.php
+[2025-05-06 12:03:21] Successfully loaded: class-admin.php
+[2025-05-06 12:03:21] Initializing Admin class
+[2025-05-06 12:03:21] Initializing FluentCRM Hooks class
+[2025-05-06 12:03:21] Plugin initialization completed successfully
+[2025-05-06 12:03:21] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:03:21] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:03:21] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:03:21] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:03:22] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:03:22] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:05:21] Initializing plugin - FluentCRM is active
+[2025-05-06 12:05:21] Successfully loaded: class-db-manager.php
+[2025-05-06 12:05:21] Successfully loaded: class-status-manager.php
+[2025-05-06 12:05:21] Successfully loaded: class-sms-service.php
+[2025-05-06 12:05:21] Successfully loaded: class-admin.php
+[2025-05-06 12:05:21] Initializing Admin class
+[2025-05-06 12:05:21] Initializing FluentCRM Hooks class
+[2025-05-06 12:05:21] Plugin initialization completed successfully
+[2025-05-06 12:05:21] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:05:21] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:05:21] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:05:21] Initializing plugin - FluentCRM is active
+[2025-05-06 12:05:21] Successfully loaded: class-db-manager.php
+[2025-05-06 12:05:21] Successfully loaded: class-status-manager.php
+[2025-05-06 12:05:21] Successfully loaded: class-sms-service.php
+[2025-05-06 12:05:21] Successfully loaded: class-admin.php
+[2025-05-06 12:05:21] Initializing Admin class
+[2025-05-06 12:05:21] Initializing FluentCRM Hooks class
+[2025-05-06 12:05:21] Plugin initialization completed successfully
+[2025-05-06 12:05:22] Initializing plugin - FluentCRM is active
+[2025-05-06 12:05:22] Successfully loaded: class-db-manager.php
+[2025-05-06 12:05:22] Successfully loaded: class-status-manager.php
+[2025-05-06 12:05:22] Successfully loaded: class-sms-service.php
+[2025-05-06 12:05:22] Successfully loaded: class-admin.php
+[2025-05-06 12:05:22] Initializing Admin class
+[2025-05-06 12:05:22] Initializing FluentCRM Hooks class
+[2025-05-06 12:05:22] Plugin initialization completed successfully
+[2025-05-06 12:05:22] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:05:22] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:05:22] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:05:22] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:05:23] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:05:23] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:07:22] Initializing plugin - FluentCRM is active
+[2025-05-06 12:07:22] Successfully loaded: class-db-manager.php
+[2025-05-06 12:07:22] Successfully loaded: class-status-manager.php
+[2025-05-06 12:07:22] Successfully loaded: class-sms-service.php
+[2025-05-06 12:07:22] Successfully loaded: class-admin.php
+[2025-05-06 12:07:22] Initializing Admin class
+[2025-05-06 12:07:22] Initializing FluentCRM Hooks class
+[2025-05-06 12:07:22] Plugin initialization completed successfully
+[2025-05-06 12:07:22] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:07:22] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:07:22] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:07:22] Initializing plugin - FluentCRM is active
+[2025-05-06 12:07:22] Successfully loaded: class-db-manager.php
+[2025-05-06 12:07:22] Successfully loaded: class-status-manager.php
+[2025-05-06 12:07:22] Successfully loaded: class-sms-service.php
+[2025-05-06 12:07:22] Successfully loaded: class-admin.php
+[2025-05-06 12:07:22] Initializing Admin class
+[2025-05-06 12:07:22] Initializing FluentCRM Hooks class
+[2025-05-06 12:07:22] Plugin initialization completed successfully
+[2025-05-06 12:07:23] Initializing plugin - FluentCRM is active
+[2025-05-06 12:07:23] Successfully loaded: class-db-manager.php
+[2025-05-06 12:07:23] Successfully loaded: class-status-manager.php
+[2025-05-06 12:07:23] Successfully loaded: class-sms-service.php
+[2025-05-06 12:07:23] Successfully loaded: class-admin.php
+[2025-05-06 12:07:23] Initializing Admin class
+[2025-05-06 12:07:23] Initializing FluentCRM Hooks class
+[2025-05-06 12:07:23] Plugin initialization completed successfully
+[2025-05-06 12:07:23] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:07:23] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:07:23] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:07:23] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:07:24] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:07:24] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:09:23] Initializing plugin - FluentCRM is active
+[2025-05-06 12:09:23] Successfully loaded: class-db-manager.php
+[2025-05-06 12:09:23] Successfully loaded: class-status-manager.php
+[2025-05-06 12:09:23] Successfully loaded: class-sms-service.php
+[2025-05-06 12:09:23] Successfully loaded: class-admin.php
+[2025-05-06 12:09:23] Initializing Admin class
+[2025-05-06 12:09:23] Initializing FluentCRM Hooks class
+[2025-05-06 12:09:23] Plugin initialization completed successfully
+[2025-05-06 12:09:23] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:09:23] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:09:23] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:09:23] Initializing plugin - FluentCRM is active
+[2025-05-06 12:09:23] Successfully loaded: class-db-manager.php
+[2025-05-06 12:09:23] Successfully loaded: class-status-manager.php
+[2025-05-06 12:09:23] Successfully loaded: class-sms-service.php
+[2025-05-06 12:09:23] Successfully loaded: class-admin.php
+[2025-05-06 12:09:23] Initializing Admin class
+[2025-05-06 12:09:23] Initializing FluentCRM Hooks class
+[2025-05-06 12:09:23] Plugin initialization completed successfully
+[2025-05-06 12:09:24] Initializing plugin - FluentCRM is active
+[2025-05-06 12:09:24] Successfully loaded: class-db-manager.php
+[2025-05-06 12:09:24] Successfully loaded: class-status-manager.php
+[2025-05-06 12:09:24] Successfully loaded: class-sms-service.php
+[2025-05-06 12:09:24] Successfully loaded: class-admin.php
+[2025-05-06 12:09:24] Initializing Admin class
+[2025-05-06 12:09:24] Initializing FluentCRM Hooks class
+[2025-05-06 12:09:24] Plugin initialization completed successfully
+[2025-05-06 12:09:24] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:09:24] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:09:24] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:09:24] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:09:25] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:09:25] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:11:24] Initializing plugin - FluentCRM is active
+[2025-05-06 12:11:24] Successfully loaded: class-db-manager.php
+[2025-05-06 12:11:24] Successfully loaded: class-status-manager.php
+[2025-05-06 12:11:24] Successfully loaded: class-sms-service.php
+[2025-05-06 12:11:24] Successfully loaded: class-admin.php
+[2025-05-06 12:11:24] Initializing Admin class
+[2025-05-06 12:11:24] Initializing FluentCRM Hooks class
+[2025-05-06 12:11:24] Plugin initialization completed successfully
+[2025-05-06 12:11:24] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:11:24] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:11:24] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:11:24] Initializing plugin - FluentCRM is active
+[2025-05-06 12:11:24] Successfully loaded: class-db-manager.php
+[2025-05-06 12:11:24] Successfully loaded: class-status-manager.php
+[2025-05-06 12:11:24] Successfully loaded: class-sms-service.php
+[2025-05-06 12:11:24] Successfully loaded: class-admin.php
+[2025-05-06 12:11:24] Initializing Admin class
+[2025-05-06 12:11:24] Initializing FluentCRM Hooks class
+[2025-05-06 12:11:24] Plugin initialization completed successfully
+[2025-05-06 12:11:25] Initializing plugin - FluentCRM is active
+[2025-05-06 12:11:25] Successfully loaded: class-db-manager.php
+[2025-05-06 12:11:25] Successfully loaded: class-status-manager.php
+[2025-05-06 12:11:25] Successfully loaded: class-sms-service.php
+[2025-05-06 12:11:25] Successfully loaded: class-admin.php
+[2025-05-06 12:11:25] Initializing Admin class
+[2025-05-06 12:11:25] Initializing FluentCRM Hooks class
+[2025-05-06 12:11:25] Plugin initialization completed successfully
+[2025-05-06 12:11:25] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:11:25] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:11:26] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:11:26] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:11:26] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:11:26] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:13:25] Initializing plugin - FluentCRM is active
+[2025-05-06 12:13:25] Successfully loaded: class-db-manager.php
+[2025-05-06 12:13:25] Successfully loaded: class-status-manager.php
+[2025-05-06 12:13:25] Successfully loaded: class-sms-service.php
+[2025-05-06 12:13:25] Successfully loaded: class-admin.php
+[2025-05-06 12:13:25] Initializing Admin class
+[2025-05-06 12:13:25] Initializing FluentCRM Hooks class
+[2025-05-06 12:13:25] Plugin initialization completed successfully
+[2025-05-06 12:13:25] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:13:25] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:13:25] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:13:25] Initializing plugin - FluentCRM is active
+[2025-05-06 12:13:25] Successfully loaded: class-db-manager.php
+[2025-05-06 12:13:25] Successfully loaded: class-status-manager.php
+[2025-05-06 12:13:25] Successfully loaded: class-sms-service.php
+[2025-05-06 12:13:25] Successfully loaded: class-admin.php
+[2025-05-06 12:13:25] Initializing Admin class
+[2025-05-06 12:13:25] Initializing FluentCRM Hooks class
+[2025-05-06 12:13:25] Plugin initialization completed successfully
+[2025-05-06 12:13:26] Initializing plugin - FluentCRM is active
+[2025-05-06 12:13:26] Successfully loaded: class-db-manager.php
+[2025-05-06 12:13:26] Successfully loaded: class-status-manager.php
+[2025-05-06 12:13:26] Successfully loaded: class-sms-service.php
+[2025-05-06 12:13:26] Successfully loaded: class-admin.php
+[2025-05-06 12:13:26] Initializing Admin class
+[2025-05-06 12:13:26] Initializing FluentCRM Hooks class
+[2025-05-06 12:13:26] Plugin initialization completed successfully
+[2025-05-06 12:13:26] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:13:26] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:13:26] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:13:26] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:13:27] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:13:27] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:15:26] Initializing plugin - FluentCRM is active
+[2025-05-06 12:15:26] Successfully loaded: class-db-manager.php
+[2025-05-06 12:15:26] Successfully loaded: class-status-manager.php
+[2025-05-06 12:15:26] Successfully loaded: class-sms-service.php
+[2025-05-06 12:15:26] Successfully loaded: class-admin.php
+[2025-05-06 12:15:26] Initializing Admin class
+[2025-05-06 12:15:26] Initializing FluentCRM Hooks class
+[2025-05-06 12:15:26] Plugin initialization completed successfully
+[2025-05-06 12:15:26] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:15:26] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:15:26] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:15:26] Initializing plugin - FluentCRM is active
+[2025-05-06 12:15:26] Successfully loaded: class-db-manager.php
+[2025-05-06 12:15:26] Successfully loaded: class-status-manager.php
+[2025-05-06 12:15:26] Successfully loaded: class-sms-service.php
+[2025-05-06 12:15:26] Successfully loaded: class-admin.php
+[2025-05-06 12:15:26] Initializing Admin class
+[2025-05-06 12:15:26] Initializing FluentCRM Hooks class
+[2025-05-06 12:15:26] Plugin initialization completed successfully
+[2025-05-06 12:15:27] Initializing plugin - FluentCRM is active
+[2025-05-06 12:15:27] Successfully loaded: class-db-manager.php
+[2025-05-06 12:15:27] Successfully loaded: class-status-manager.php
+[2025-05-06 12:15:27] Successfully loaded: class-sms-service.php
+[2025-05-06 12:15:27] Successfully loaded: class-admin.php
+[2025-05-06 12:15:27] Initializing Admin class
+[2025-05-06 12:15:27] Initializing FluentCRM Hooks class
+[2025-05-06 12:15:27] Plugin initialization completed successfully
+[2025-05-06 12:15:27] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:15:27] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:15:27] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:15:27] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:15:28] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:15:28] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:17:27] Initializing plugin - FluentCRM is active
+[2025-05-06 12:17:27] Successfully loaded: class-db-manager.php
+[2025-05-06 12:17:27] Successfully loaded: class-status-manager.php
+[2025-05-06 12:17:27] Successfully loaded: class-sms-service.php
+[2025-05-06 12:17:27] Successfully loaded: class-admin.php
+[2025-05-06 12:17:27] Initializing Admin class
+[2025-05-06 12:17:27] Initializing FluentCRM Hooks class
+[2025-05-06 12:17:27] Plugin initialization completed successfully
+[2025-05-06 12:17:27] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:17:27] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:17:27] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:17:27] Initializing plugin - FluentCRM is active
+[2025-05-06 12:17:27] Successfully loaded: class-db-manager.php
+[2025-05-06 12:17:27] Successfully loaded: class-status-manager.php
+[2025-05-06 12:17:27] Successfully loaded: class-sms-service.php
+[2025-05-06 12:17:27] Successfully loaded: class-admin.php
+[2025-05-06 12:17:27] Initializing Admin class
+[2025-05-06 12:17:27] Initializing FluentCRM Hooks class
+[2025-05-06 12:17:27] Plugin initialization completed successfully
+[2025-05-06 12:17:28] Initializing plugin - FluentCRM is active
+[2025-05-06 12:17:28] Successfully loaded: class-db-manager.php
+[2025-05-06 12:17:28] Successfully loaded: class-status-manager.php
+[2025-05-06 12:17:28] Successfully loaded: class-sms-service.php
+[2025-05-06 12:17:28] Successfully loaded: class-admin.php
+[2025-05-06 12:17:28] Initializing Admin class
+[2025-05-06 12:17:28] Initializing FluentCRM Hooks class
+[2025-05-06 12:17:28] Plugin initialization completed successfully
+[2025-05-06 12:17:28] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:17:28] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:17:28] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:17:28] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:17:29] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:17:29] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:19:28] Initializing plugin - FluentCRM is active
+[2025-05-06 12:19:28] Successfully loaded: class-db-manager.php
+[2025-05-06 12:19:28] Successfully loaded: class-status-manager.php
+[2025-05-06 12:19:28] Successfully loaded: class-sms-service.php
+[2025-05-06 12:19:28] Successfully loaded: class-admin.php
+[2025-05-06 12:19:28] Initializing Admin class
+[2025-05-06 12:19:28] Initializing FluentCRM Hooks class
+[2025-05-06 12:19:28] Plugin initialization completed successfully
+[2025-05-06 12:19:28] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:19:28] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:19:28] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:19:28] Initializing plugin - FluentCRM is active
+[2025-05-06 12:19:28] Successfully loaded: class-db-manager.php
+[2025-05-06 12:19:28] Successfully loaded: class-status-manager.php
+[2025-05-06 12:19:28] Successfully loaded: class-sms-service.php
+[2025-05-06 12:19:28] Successfully loaded: class-admin.php
+[2025-05-06 12:19:28] Initializing Admin class
+[2025-05-06 12:19:28] Initializing FluentCRM Hooks class
+[2025-05-06 12:19:28] Plugin initialization completed successfully
+[2025-05-06 12:19:29] Initializing plugin - FluentCRM is active
+[2025-05-06 12:19:29] Successfully loaded: class-db-manager.php
+[2025-05-06 12:19:29] Successfully loaded: class-status-manager.php
+[2025-05-06 12:19:29] Successfully loaded: class-sms-service.php
+[2025-05-06 12:19:29] Successfully loaded: class-admin.php
+[2025-05-06 12:19:29] Initializing Admin class
+[2025-05-06 12:19:29] Initializing FluentCRM Hooks class
+[2025-05-06 12:19:29] Plugin initialization completed successfully
+[2025-05-06 12:19:29] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:19:29] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:19:29] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:19:29] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:19:30] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:19:30] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:21:29] Initializing plugin - FluentCRM is active
+[2025-05-06 12:21:29] Successfully loaded: class-db-manager.php
+[2025-05-06 12:21:29] Successfully loaded: class-status-manager.php
+[2025-05-06 12:21:29] Successfully loaded: class-sms-service.php
+[2025-05-06 12:21:29] Successfully loaded: class-admin.php
+[2025-05-06 12:21:29] Initializing Admin class
+[2025-05-06 12:21:29] Initializing FluentCRM Hooks class
+[2025-05-06 12:21:29] Plugin initialization completed successfully
+[2025-05-06 12:21:29] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:21:29] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:21:29] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:21:29] Initializing plugin - FluentCRM is active
+[2025-05-06 12:21:29] Successfully loaded: class-db-manager.php
+[2025-05-06 12:21:29] Successfully loaded: class-status-manager.php
+[2025-05-06 12:21:29] Successfully loaded: class-sms-service.php
+[2025-05-06 12:21:29] Successfully loaded: class-admin.php
+[2025-05-06 12:21:29] Initializing Admin class
+[2025-05-06 12:21:29] Initializing FluentCRM Hooks class
+[2025-05-06 12:21:29] Plugin initialization completed successfully
+[2025-05-06 12:21:30] Initializing plugin - FluentCRM is active
+[2025-05-06 12:21:30] Successfully loaded: class-db-manager.php
+[2025-05-06 12:21:30] Successfully loaded: class-status-manager.php
+[2025-05-06 12:21:30] Successfully loaded: class-sms-service.php
+[2025-05-06 12:21:30] Successfully loaded: class-admin.php
+[2025-05-06 12:21:30] Initializing Admin class
+[2025-05-06 12:21:30] Initializing FluentCRM Hooks class
+[2025-05-06 12:21:30] Plugin initialization completed successfully
+[2025-05-06 12:21:30] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:21:30] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:21:30] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:21:30] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:21:31] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:21:31] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:23:30] Initializing plugin - FluentCRM is active
+[2025-05-06 12:23:30] Successfully loaded: class-db-manager.php
+[2025-05-06 12:23:30] Successfully loaded: class-status-manager.php
+[2025-05-06 12:23:30] Successfully loaded: class-sms-service.php
+[2025-05-06 12:23:30] Successfully loaded: class-admin.php
+[2025-05-06 12:23:30] Initializing Admin class
+[2025-05-06 12:23:30] Initializing FluentCRM Hooks class
+[2025-05-06 12:23:30] Plugin initialization completed successfully
+[2025-05-06 12:23:30] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:23:30] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:23:30] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:23:30] Initializing plugin - FluentCRM is active
+[2025-05-06 12:23:30] Successfully loaded: class-db-manager.php
+[2025-05-06 12:23:30] Successfully loaded: class-status-manager.php
+[2025-05-06 12:23:30] Successfully loaded: class-sms-service.php
+[2025-05-06 12:23:30] Successfully loaded: class-admin.php
+[2025-05-06 12:23:30] Initializing Admin class
+[2025-05-06 12:23:30] Initializing FluentCRM Hooks class
+[2025-05-06 12:23:30] Plugin initialization completed successfully
+[2025-05-06 12:23:31] Initializing plugin - FluentCRM is active
+[2025-05-06 12:23:31] Successfully loaded: class-db-manager.php
+[2025-05-06 12:23:31] Successfully loaded: class-status-manager.php
+[2025-05-06 12:23:31] Successfully loaded: class-sms-service.php
+[2025-05-06 12:23:31] Successfully loaded: class-admin.php
+[2025-05-06 12:23:31] Initializing Admin class
+[2025-05-06 12:23:31] Initializing FluentCRM Hooks class
+[2025-05-06 12:23:31] Plugin initialization completed successfully
+[2025-05-06 12:23:31] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:23:31] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:23:32] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:23:32] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:23:32] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:23:32] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:25:31] Initializing plugin - FluentCRM is active
+[2025-05-06 12:25:31] Successfully loaded: class-db-manager.php
+[2025-05-06 12:25:31] Successfully loaded: class-status-manager.php
+[2025-05-06 12:25:31] Successfully loaded: class-sms-service.php
+[2025-05-06 12:25:31] Successfully loaded: class-admin.php
+[2025-05-06 12:25:31] Initializing Admin class
+[2025-05-06 12:25:31] Initializing FluentCRM Hooks class
+[2025-05-06 12:25:31] Plugin initialization completed successfully
+[2025-05-06 12:25:31] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:25:32] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:25:32] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:25:32] Initializing plugin - FluentCRM is active
+[2025-05-06 12:25:32] Successfully loaded: class-db-manager.php
+[2025-05-06 12:25:32] Successfully loaded: class-status-manager.php
+[2025-05-06 12:25:32] Successfully loaded: class-sms-service.php
+[2025-05-06 12:25:32] Successfully loaded: class-admin.php
+[2025-05-06 12:25:32] Initializing Admin class
+[2025-05-06 12:25:32] Initializing FluentCRM Hooks class
+[2025-05-06 12:25:32] Plugin initialization completed successfully
+[2025-05-06 12:25:33] Initializing plugin - FluentCRM is active
+[2025-05-06 12:25:33] Successfully loaded: class-db-manager.php
+[2025-05-06 12:25:33] Successfully loaded: class-status-manager.php
+[2025-05-06 12:25:33] Successfully loaded: class-sms-service.php
+[2025-05-06 12:25:33] Successfully loaded: class-admin.php
+[2025-05-06 12:25:33] Initializing Admin class
+[2025-05-06 12:25:33] Initializing FluentCRM Hooks class
+[2025-05-06 12:25:33] Plugin initialization completed successfully
+[2025-05-06 12:25:34] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:25:34] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:25:34] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:25:34] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:25:34] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:25:34] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:27:32] Initializing plugin - FluentCRM is active
+[2025-05-06 12:27:32] Successfully loaded: class-db-manager.php
+[2025-05-06 12:27:32] Successfully loaded: class-status-manager.php
+[2025-05-06 12:27:32] Successfully loaded: class-sms-service.php
+[2025-05-06 12:27:32] Successfully loaded: class-admin.php
+[2025-05-06 12:27:32] Initializing Admin class
+[2025-05-06 12:27:32] Initializing FluentCRM Hooks class
+[2025-05-06 12:27:32] Plugin initialization completed successfully
+[2025-05-06 12:27:32] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:27:32] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:27:32] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:27:32] Initializing plugin - FluentCRM is active
+[2025-05-06 12:27:32] Successfully loaded: class-db-manager.php
+[2025-05-06 12:27:32] Successfully loaded: class-status-manager.php
+[2025-05-06 12:27:32] Successfully loaded: class-sms-service.php
+[2025-05-06 12:27:32] Successfully loaded: class-admin.php
+[2025-05-06 12:27:32] Initializing Admin class
+[2025-05-06 12:27:32] Initializing FluentCRM Hooks class
+[2025-05-06 12:27:32] Plugin initialization completed successfully
+[2025-05-06 12:27:33] Initializing plugin - FluentCRM is active
+[2025-05-06 12:27:33] Successfully loaded: class-db-manager.php
+[2025-05-06 12:27:33] Successfully loaded: class-status-manager.php
+[2025-05-06 12:27:33] Successfully loaded: class-sms-service.php
+[2025-05-06 12:27:33] Successfully loaded: class-admin.php
+[2025-05-06 12:27:33] Initializing Admin class
+[2025-05-06 12:27:33] Initializing FluentCRM Hooks class
+[2025-05-06 12:27:33] Plugin initialization completed successfully
+[2025-05-06 12:27:33] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:27:33] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:27:33] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:27:33] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:27:34] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:27:34] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:29:33] Initializing plugin - FluentCRM is active
+[2025-05-06 12:29:33] Successfully loaded: class-db-manager.php
+[2025-05-06 12:29:33] Successfully loaded: class-status-manager.php
+[2025-05-06 12:29:33] Successfully loaded: class-sms-service.php
+[2025-05-06 12:29:33] Successfully loaded: class-admin.php
+[2025-05-06 12:29:33] Initializing Admin class
+[2025-05-06 12:29:33] Initializing FluentCRM Hooks class
+[2025-05-06 12:29:33] Plugin initialization completed successfully
+[2025-05-06 12:29:33] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:29:33] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:29:33] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:29:33] Initializing plugin - FluentCRM is active
+[2025-05-06 12:29:33] Successfully loaded: class-db-manager.php
+[2025-05-06 12:29:33] Successfully loaded: class-status-manager.php
+[2025-05-06 12:29:33] Successfully loaded: class-sms-service.php
+[2025-05-06 12:29:33] Successfully loaded: class-admin.php
+[2025-05-06 12:29:33] Initializing Admin class
+[2025-05-06 12:29:33] Initializing FluentCRM Hooks class
+[2025-05-06 12:29:33] Plugin initialization completed successfully
+[2025-05-06 12:29:34] Initializing plugin - FluentCRM is active
+[2025-05-06 12:29:34] Successfully loaded: class-db-manager.php
+[2025-05-06 12:29:34] Successfully loaded: class-status-manager.php
+[2025-05-06 12:29:34] Successfully loaded: class-sms-service.php
+[2025-05-06 12:29:34] Successfully loaded: class-admin.php
+[2025-05-06 12:29:34] Initializing Admin class
+[2025-05-06 12:29:34] Initializing FluentCRM Hooks class
+[2025-05-06 12:29:34] Plugin initialization completed successfully
+[2025-05-06 12:29:34] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:29:34] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:29:34] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:29:34] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:29:35] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:29:35] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:31:34] Initializing plugin - FluentCRM is active
+[2025-05-06 12:31:34] Successfully loaded: class-db-manager.php
+[2025-05-06 12:31:34] Successfully loaded: class-status-manager.php
+[2025-05-06 12:31:34] Successfully loaded: class-sms-service.php
+[2025-05-06 12:31:34] Successfully loaded: class-admin.php
+[2025-05-06 12:31:34] Initializing Admin class
+[2025-05-06 12:31:34] Initializing FluentCRM Hooks class
+[2025-05-06 12:31:34] Plugin initialization completed successfully
+[2025-05-06 12:31:34] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:31:34] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:31:34] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:31:35] Initializing plugin - FluentCRM is active
+[2025-05-06 12:31:35] Successfully loaded: class-db-manager.php
+[2025-05-06 12:31:35] Successfully loaded: class-status-manager.php
+[2025-05-06 12:31:35] Successfully loaded: class-sms-service.php
+[2025-05-06 12:31:35] Successfully loaded: class-admin.php
+[2025-05-06 12:31:35] Initializing Admin class
+[2025-05-06 12:31:35] Initializing FluentCRM Hooks class
+[2025-05-06 12:31:35] Plugin initialization completed successfully
+[2025-05-06 12:31:35] Initializing plugin - FluentCRM is active
+[2025-05-06 12:31:35] Successfully loaded: class-db-manager.php
+[2025-05-06 12:31:35] Successfully loaded: class-status-manager.php
+[2025-05-06 12:31:35] Successfully loaded: class-sms-service.php
+[2025-05-06 12:31:35] Successfully loaded: class-admin.php
+[2025-05-06 12:31:35] Initializing Admin class
+[2025-05-06 12:31:35] Initializing FluentCRM Hooks class
+[2025-05-06 12:31:35] Plugin initialization completed successfully
+[2025-05-06 12:31:35] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:31:36] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:31:36] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:31:37] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:31:37] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:31:37] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:33:35] Initializing plugin - FluentCRM is active
+[2025-05-06 12:33:35] Successfully loaded: class-db-manager.php
+[2025-05-06 12:33:35] Successfully loaded: class-status-manager.php
+[2025-05-06 12:33:35] Successfully loaded: class-sms-service.php
+[2025-05-06 12:33:35] Successfully loaded: class-admin.php
+[2025-05-06 12:33:35] Initializing Admin class
+[2025-05-06 12:33:35] Initializing FluentCRM Hooks class
+[2025-05-06 12:33:35] Plugin initialization completed successfully
+[2025-05-06 12:33:35] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:33:35] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:33:35] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:33:35] Initializing plugin - FluentCRM is active
+[2025-05-06 12:33:35] Successfully loaded: class-db-manager.php
+[2025-05-06 12:33:35] Successfully loaded: class-status-manager.php
+[2025-05-06 12:33:35] Successfully loaded: class-sms-service.php
+[2025-05-06 12:33:35] Successfully loaded: class-admin.php
+[2025-05-06 12:33:35] Initializing Admin class
+[2025-05-06 12:33:35] Initializing FluentCRM Hooks class
+[2025-05-06 12:33:35] Plugin initialization completed successfully
+[2025-05-06 12:33:36] Initializing plugin - FluentCRM is active
+[2025-05-06 12:33:36] Successfully loaded: class-db-manager.php
+[2025-05-06 12:33:36] Successfully loaded: class-status-manager.php
+[2025-05-06 12:33:36] Successfully loaded: class-sms-service.php
+[2025-05-06 12:33:36] Successfully loaded: class-admin.php
+[2025-05-06 12:33:36] Initializing Admin class
+[2025-05-06 12:33:36] Initializing FluentCRM Hooks class
+[2025-05-06 12:33:36] Plugin initialization completed successfully
+[2025-05-06 12:33:36] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:33:36] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:33:36] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:33:36] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:33:37] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:33:37] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:35:36] Initializing plugin - FluentCRM is active
+[2025-05-06 12:35:36] Successfully loaded: class-db-manager.php
+[2025-05-06 12:35:36] Successfully loaded: class-status-manager.php
+[2025-05-06 12:35:36] Successfully loaded: class-sms-service.php
+[2025-05-06 12:35:36] Successfully loaded: class-admin.php
+[2025-05-06 12:35:36] Initializing Admin class
+[2025-05-06 12:35:36] Initializing FluentCRM Hooks class
+[2025-05-06 12:35:36] Plugin initialization completed successfully
+[2025-05-06 12:35:36] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:35:36] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:35:36] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:35:36] Initializing plugin - FluentCRM is active
+[2025-05-06 12:35:36] Successfully loaded: class-db-manager.php
+[2025-05-06 12:35:36] Successfully loaded: class-status-manager.php
+[2025-05-06 12:35:36] Successfully loaded: class-sms-service.php
+[2025-05-06 12:35:36] Successfully loaded: class-admin.php
+[2025-05-06 12:35:36] Initializing Admin class
+[2025-05-06 12:35:36] Initializing FluentCRM Hooks class
+[2025-05-06 12:35:36] Plugin initialization completed successfully
+[2025-05-06 12:35:37] Initializing plugin - FluentCRM is active
+[2025-05-06 12:35:37] Successfully loaded: class-db-manager.php
+[2025-05-06 12:35:37] Successfully loaded: class-status-manager.php
+[2025-05-06 12:35:37] Successfully loaded: class-sms-service.php
+[2025-05-06 12:35:37] Successfully loaded: class-admin.php
+[2025-05-06 12:35:37] Initializing Admin class
+[2025-05-06 12:35:37] Initializing FluentCRM Hooks class
+[2025-05-06 12:35:37] Plugin initialization completed successfully
+[2025-05-06 12:35:37] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:35:37] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:35:37] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:35:37] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:35:38] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:35:38] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:37:37] Initializing plugin - FluentCRM is active
+[2025-05-06 12:37:37] Successfully loaded: class-db-manager.php
+[2025-05-06 12:37:37] Successfully loaded: class-status-manager.php
+[2025-05-06 12:37:37] Successfully loaded: class-sms-service.php
+[2025-05-06 12:37:37] Successfully loaded: class-admin.php
+[2025-05-06 12:37:37] Initializing Admin class
+[2025-05-06 12:37:37] Initializing FluentCRM Hooks class
+[2025-05-06 12:37:37] Plugin initialization completed successfully
+[2025-05-06 12:37:37] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:37:37] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:37:37] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:37:37] Initializing plugin - FluentCRM is active
+[2025-05-06 12:37:37] Successfully loaded: class-db-manager.php
+[2025-05-06 12:37:37] Successfully loaded: class-status-manager.php
+[2025-05-06 12:37:37] Successfully loaded: class-sms-service.php
+[2025-05-06 12:37:37] Successfully loaded: class-admin.php
+[2025-05-06 12:37:37] Initializing Admin class
+[2025-05-06 12:37:37] Initializing FluentCRM Hooks class
+[2025-05-06 12:37:37] Plugin initialization completed successfully
+[2025-05-06 12:37:38] Initializing plugin - FluentCRM is active
+[2025-05-06 12:37:38] Successfully loaded: class-db-manager.php
+[2025-05-06 12:37:38] Successfully loaded: class-status-manager.php
+[2025-05-06 12:37:38] Successfully loaded: class-sms-service.php
+[2025-05-06 12:37:38] Successfully loaded: class-admin.php
+[2025-05-06 12:37:38] Initializing Admin class
+[2025-05-06 12:37:38] Initializing FluentCRM Hooks class
+[2025-05-06 12:37:38] Plugin initialization completed successfully
+[2025-05-06 12:37:38] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:37:38] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:37:38] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:37:38] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:37:39] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:37:39] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:39:38] Initializing plugin - FluentCRM is active
+[2025-05-06 12:39:38] Successfully loaded: class-db-manager.php
+[2025-05-06 12:39:38] Successfully loaded: class-status-manager.php
+[2025-05-06 12:39:38] Successfully loaded: class-sms-service.php
+[2025-05-06 12:39:38] Successfully loaded: class-admin.php
+[2025-05-06 12:39:38] Initializing Admin class
+[2025-05-06 12:39:38] Initializing FluentCRM Hooks class
+[2025-05-06 12:39:38] Plugin initialization completed successfully
+[2025-05-06 12:39:38] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:39:38] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:39:38] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:39:38] Initializing plugin - FluentCRM is active
+[2025-05-06 12:39:38] Successfully loaded: class-db-manager.php
+[2025-05-06 12:39:38] Successfully loaded: class-status-manager.php
+[2025-05-06 12:39:38] Successfully loaded: class-sms-service.php
+[2025-05-06 12:39:38] Successfully loaded: class-admin.php
+[2025-05-06 12:39:38] Initializing Admin class
+[2025-05-06 12:39:38] Initializing FluentCRM Hooks class
+[2025-05-06 12:39:38] Plugin initialization completed successfully
+[2025-05-06 12:39:39] Initializing plugin - FluentCRM is active
+[2025-05-06 12:39:39] Successfully loaded: class-db-manager.php
+[2025-05-06 12:39:39] Successfully loaded: class-status-manager.php
+[2025-05-06 12:39:39] Successfully loaded: class-sms-service.php
+[2025-05-06 12:39:39] Successfully loaded: class-admin.php
+[2025-05-06 12:39:39] Initializing Admin class
+[2025-05-06 12:39:39] Initializing FluentCRM Hooks class
+[2025-05-06 12:39:39] Plugin initialization completed successfully
+[2025-05-06 12:39:39] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:39:39] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:39:39] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:39:39] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:39:40] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:39:40] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:41:39] Initializing plugin - FluentCRM is active
+[2025-05-06 12:41:39] Successfully loaded: class-db-manager.php
+[2025-05-06 12:41:39] Successfully loaded: class-status-manager.php
+[2025-05-06 12:41:39] Successfully loaded: class-sms-service.php
+[2025-05-06 12:41:39] Successfully loaded: class-admin.php
+[2025-05-06 12:41:39] Initializing Admin class
+[2025-05-06 12:41:39] Initializing FluentCRM Hooks class
+[2025-05-06 12:41:39] Plugin initialization completed successfully
+[2025-05-06 12:41:39] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:41:39] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:41:39] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:41:39] Initializing plugin - FluentCRM is active
+[2025-05-06 12:41:39] Successfully loaded: class-db-manager.php
+[2025-05-06 12:41:39] Successfully loaded: class-status-manager.php
+[2025-05-06 12:41:39] Successfully loaded: class-sms-service.php
+[2025-05-06 12:41:39] Successfully loaded: class-admin.php
+[2025-05-06 12:41:39] Initializing Admin class
+[2025-05-06 12:41:39] Initializing FluentCRM Hooks class
+[2025-05-06 12:41:39] Plugin initialization completed successfully
+[2025-05-06 12:41:40] Initializing plugin - FluentCRM is active
+[2025-05-06 12:41:40] Successfully loaded: class-db-manager.php
+[2025-05-06 12:41:40] Successfully loaded: class-status-manager.php
+[2025-05-06 12:41:40] Successfully loaded: class-sms-service.php
+[2025-05-06 12:41:40] Successfully loaded: class-admin.php
+[2025-05-06 12:41:40] Initializing Admin class
+[2025-05-06 12:41:40] Initializing FluentCRM Hooks class
+[2025-05-06 12:41:40] Plugin initialization completed successfully
+[2025-05-06 12:41:40] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:41:40] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:41:40] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:41:40] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:41:41] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:41:41] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:43:40] Initializing plugin - FluentCRM is active
+[2025-05-06 12:43:40] Successfully loaded: class-db-manager.php
+[2025-05-06 12:43:40] Successfully loaded: class-status-manager.php
+[2025-05-06 12:43:40] Successfully loaded: class-sms-service.php
+[2025-05-06 12:43:40] Successfully loaded: class-admin.php
+[2025-05-06 12:43:40] Initializing Admin class
+[2025-05-06 12:43:40] Initializing FluentCRM Hooks class
+[2025-05-06 12:43:40] Plugin initialization completed successfully
+[2025-05-06 12:43:40] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:43:40] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:43:40] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:43:40] Initializing plugin - FluentCRM is active
+[2025-05-06 12:43:40] Successfully loaded: class-db-manager.php
+[2025-05-06 12:43:40] Successfully loaded: class-status-manager.php
+[2025-05-06 12:43:40] Successfully loaded: class-sms-service.php
+[2025-05-06 12:43:40] Successfully loaded: class-admin.php
+[2025-05-06 12:43:40] Initializing Admin class
+[2025-05-06 12:43:40] Initializing FluentCRM Hooks class
+[2025-05-06 12:43:40] Plugin initialization completed successfully
+[2025-05-06 12:43:41] Initializing plugin - FluentCRM is active
+[2025-05-06 12:43:41] Successfully loaded: class-db-manager.php
+[2025-05-06 12:43:41] Successfully loaded: class-status-manager.php
+[2025-05-06 12:43:41] Successfully loaded: class-sms-service.php
+[2025-05-06 12:43:41] Successfully loaded: class-admin.php
+[2025-05-06 12:43:41] Initializing Admin class
+[2025-05-06 12:43:41] Initializing FluentCRM Hooks class
+[2025-05-06 12:43:41] Plugin initialization completed successfully
+[2025-05-06 12:43:41] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:43:41] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:43:41] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:43:41] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:43:42] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:43:42] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:45:41] Initializing plugin - FluentCRM is active
+[2025-05-06 12:45:41] Successfully loaded: class-db-manager.php
+[2025-05-06 12:45:41] Successfully loaded: class-status-manager.php
+[2025-05-06 12:45:41] Successfully loaded: class-sms-service.php
+[2025-05-06 12:45:41] Successfully loaded: class-admin.php
+[2025-05-06 12:45:41] Initializing Admin class
+[2025-05-06 12:45:41] Initializing FluentCRM Hooks class
+[2025-05-06 12:45:41] Plugin initialization completed successfully
+[2025-05-06 12:45:41] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:45:41] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:45:41] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:45:41] Initializing plugin - FluentCRM is active
+[2025-05-06 12:45:41] Successfully loaded: class-db-manager.php
+[2025-05-06 12:45:41] Successfully loaded: class-status-manager.php
+[2025-05-06 12:45:41] Successfully loaded: class-sms-service.php
+[2025-05-06 12:45:41] Successfully loaded: class-admin.php
+[2025-05-06 12:45:41] Initializing Admin class
+[2025-05-06 12:45:41] Initializing FluentCRM Hooks class
+[2025-05-06 12:45:41] Plugin initialization completed successfully
+[2025-05-06 12:45:42] Initializing plugin - FluentCRM is active
+[2025-05-06 12:45:42] Successfully loaded: class-db-manager.php
+[2025-05-06 12:45:42] Successfully loaded: class-status-manager.php
+[2025-05-06 12:45:42] Successfully loaded: class-sms-service.php
+[2025-05-06 12:45:42] Successfully loaded: class-admin.php
+[2025-05-06 12:45:42] Initializing Admin class
+[2025-05-06 12:45:42] Initializing FluentCRM Hooks class
+[2025-05-06 12:45:42] Plugin initialization completed successfully
+[2025-05-06 12:45:42] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:45:42] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:45:42] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:45:42] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:45:43] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:45:43] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:47:42] Initializing plugin - FluentCRM is active
+[2025-05-06 12:47:42] Successfully loaded: class-db-manager.php
+[2025-05-06 12:47:42] Successfully loaded: class-status-manager.php
+[2025-05-06 12:47:42] Successfully loaded: class-sms-service.php
+[2025-05-06 12:47:42] Successfully loaded: class-admin.php
+[2025-05-06 12:47:42] Initializing Admin class
+[2025-05-06 12:47:42] Initializing FluentCRM Hooks class
+[2025-05-06 12:47:42] Plugin initialization completed successfully
+[2025-05-06 12:47:42] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:47:42] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:47:42] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:47:42] Initializing plugin - FluentCRM is active
+[2025-05-06 12:47:42] Successfully loaded: class-db-manager.php
+[2025-05-06 12:47:42] Successfully loaded: class-status-manager.php
+[2025-05-06 12:47:42] Successfully loaded: class-sms-service.php
+[2025-05-06 12:47:42] Successfully loaded: class-admin.php
+[2025-05-06 12:47:42] Initializing Admin class
+[2025-05-06 12:47:42] Initializing FluentCRM Hooks class
+[2025-05-06 12:47:42] Plugin initialization completed successfully
+[2025-05-06 12:47:43] Initializing plugin - FluentCRM is active
+[2025-05-06 12:47:43] Successfully loaded: class-db-manager.php
+[2025-05-06 12:47:43] Successfully loaded: class-status-manager.php
+[2025-05-06 12:47:43] Successfully loaded: class-sms-service.php
+[2025-05-06 12:47:43] Successfully loaded: class-admin.php
+[2025-05-06 12:47:43] Initializing Admin class
+[2025-05-06 12:47:43] Initializing FluentCRM Hooks class
+[2025-05-06 12:47:43] Plugin initialization completed successfully
+[2025-05-06 12:47:43] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:47:43] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:47:43] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:47:43] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:47:44] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:47:44] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:49:43] Initializing plugin - FluentCRM is active
+[2025-05-06 12:49:43] Successfully loaded: class-db-manager.php
+[2025-05-06 12:49:43] Successfully loaded: class-status-manager.php
+[2025-05-06 12:49:43] Successfully loaded: class-sms-service.php
+[2025-05-06 12:49:43] Successfully loaded: class-admin.php
+[2025-05-06 12:49:43] Initializing Admin class
+[2025-05-06 12:49:43] Initializing FluentCRM Hooks class
+[2025-05-06 12:49:43] Plugin initialization completed successfully
+[2025-05-06 12:49:43] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:49:43] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:49:43] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:49:43] Initializing plugin - FluentCRM is active
+[2025-05-06 12:49:43] Successfully loaded: class-db-manager.php
+[2025-05-06 12:49:43] Successfully loaded: class-status-manager.php
+[2025-05-06 12:49:43] Successfully loaded: class-sms-service.php
+[2025-05-06 12:49:43] Successfully loaded: class-admin.php
+[2025-05-06 12:49:43] Initializing Admin class
+[2025-05-06 12:49:43] Initializing FluentCRM Hooks class
+[2025-05-06 12:49:43] Plugin initialization completed successfully
+[2025-05-06 12:49:44] Initializing plugin - FluentCRM is active
+[2025-05-06 12:49:44] Successfully loaded: class-db-manager.php
+[2025-05-06 12:49:44] Successfully loaded: class-status-manager.php
+[2025-05-06 12:49:44] Successfully loaded: class-sms-service.php
+[2025-05-06 12:49:44] Successfully loaded: class-admin.php
+[2025-05-06 12:49:44] Initializing Admin class
+[2025-05-06 12:49:44] Initializing FluentCRM Hooks class
+[2025-05-06 12:49:44] Plugin initialization completed successfully
+[2025-05-06 12:49:44] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:49:44] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:49:44] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:49:44] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:49:45] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:49:45] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:51:44] Initializing plugin - FluentCRM is active
+[2025-05-06 12:51:44] Successfully loaded: class-db-manager.php
+[2025-05-06 12:51:44] Successfully loaded: class-status-manager.php
+[2025-05-06 12:51:44] Successfully loaded: class-sms-service.php
+[2025-05-06 12:51:44] Successfully loaded: class-admin.php
+[2025-05-06 12:51:44] Initializing Admin class
+[2025-05-06 12:51:44] Initializing FluentCRM Hooks class
+[2025-05-06 12:51:44] Plugin initialization completed successfully
+[2025-05-06 12:51:44] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:51:44] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:51:44] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:51:44] Initializing plugin - FluentCRM is active
+[2025-05-06 12:51:44] Successfully loaded: class-db-manager.php
+[2025-05-06 12:51:44] Successfully loaded: class-status-manager.php
+[2025-05-06 12:51:44] Successfully loaded: class-sms-service.php
+[2025-05-06 12:51:44] Successfully loaded: class-admin.php
+[2025-05-06 12:51:44] Initializing Admin class
+[2025-05-06 12:51:44] Initializing FluentCRM Hooks class
+[2025-05-06 12:51:44] Plugin initialization completed successfully
+[2025-05-06 12:51:45] Initializing plugin - FluentCRM is active
+[2025-05-06 12:51:45] Successfully loaded: class-db-manager.php
+[2025-05-06 12:51:45] Successfully loaded: class-status-manager.php
+[2025-05-06 12:51:45] Successfully loaded: class-sms-service.php
+[2025-05-06 12:51:45] Successfully loaded: class-admin.php
+[2025-05-06 12:51:45] Initializing Admin class
+[2025-05-06 12:51:45] Initializing FluentCRM Hooks class
+[2025-05-06 12:51:45] Plugin initialization completed successfully
+[2025-05-06 12:51:45] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:51:45] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:51:45] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:51:45] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:51:46] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:51:46] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:53:45] Initializing plugin - FluentCRM is active
+[2025-05-06 12:53:45] Successfully loaded: class-db-manager.php
+[2025-05-06 12:53:45] Successfully loaded: class-status-manager.php
+[2025-05-06 12:53:45] Successfully loaded: class-sms-service.php
+[2025-05-06 12:53:45] Successfully loaded: class-admin.php
+[2025-05-06 12:53:45] Initializing Admin class
+[2025-05-06 12:53:45] Initializing FluentCRM Hooks class
+[2025-05-06 12:53:45] Plugin initialization completed successfully
+[2025-05-06 12:53:45] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:53:45] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:53:45] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:53:45] Initializing plugin - FluentCRM is active
+[2025-05-06 12:53:45] Successfully loaded: class-db-manager.php
+[2025-05-06 12:53:45] Successfully loaded: class-status-manager.php
+[2025-05-06 12:53:45] Successfully loaded: class-sms-service.php
+[2025-05-06 12:53:45] Successfully loaded: class-admin.php
+[2025-05-06 12:53:45] Initializing Admin class
+[2025-05-06 12:53:45] Initializing FluentCRM Hooks class
+[2025-05-06 12:53:45] Plugin initialization completed successfully
+[2025-05-06 12:53:46] Initializing plugin - FluentCRM is active
+[2025-05-06 12:53:46] Successfully loaded: class-db-manager.php
+[2025-05-06 12:53:46] Successfully loaded: class-status-manager.php
+[2025-05-06 12:53:46] Successfully loaded: class-sms-service.php
+[2025-05-06 12:53:46] Successfully loaded: class-admin.php
+[2025-05-06 12:53:46] Initializing Admin class
+[2025-05-06 12:53:46] Initializing FluentCRM Hooks class
+[2025-05-06 12:53:46] Plugin initialization completed successfully
+[2025-05-06 12:53:46] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:53:46] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:53:46] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:53:46] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:53:47] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:53:47] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:55:15] Initializing plugin - FluentCRM is active
+[2025-05-06 12:55:15] Successfully loaded: class-db-manager.php
+[2025-05-06 12:55:15] Successfully loaded: class-status-manager.php
+[2025-05-06 12:55:15] Successfully loaded: class-sms-service.php
+[2025-05-06 12:55:15] Successfully loaded: class-admin.php
+[2025-05-06 12:55:15] Initializing Admin class
+[2025-05-06 12:55:15] Initializing FluentCRM Hooks class
+[2025-05-06 12:55:15] Plugin initialization completed successfully
+[2025-05-06 12:55:15] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:55:16] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:55:16] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:55:16] Initializing plugin - FluentCRM is active
+[2025-05-06 12:55:16] Successfully loaded: class-db-manager.php
+[2025-05-06 12:55:16] Successfully loaded: class-status-manager.php
+[2025-05-06 12:55:16] Successfully loaded: class-sms-service.php
+[2025-05-06 12:55:16] Successfully loaded: class-admin.php
+[2025-05-06 12:55:16] Initializing Admin class
+[2025-05-06 12:55:16] Initializing FluentCRM Hooks class
+[2025-05-06 12:55:16] Plugin initialization completed successfully
+[2025-05-06 12:55:16] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:55:17] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:55:17] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:55:49] Initializing plugin - FluentCRM is active
+[2025-05-06 12:55:49] Successfully loaded: class-db-manager.php
+[2025-05-06 12:55:49] Successfully loaded: class-status-manager.php
+[2025-05-06 12:55:49] Successfully loaded: class-sms-service.php
+[2025-05-06 12:55:49] Successfully loaded: class-admin.php
+[2025-05-06 12:55:49] Initializing Admin class
+[2025-05-06 12:55:49] Initializing FluentCRM Hooks class
+[2025-05-06 12:55:49] Plugin initialization completed successfully
+[2025-05-06 12:55:49] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:55:49] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:55:49] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:55:49] Initializing plugin - FluentCRM is active
+[2025-05-06 12:55:49] Successfully loaded: class-db-manager.php
+[2025-05-06 12:55:49] Successfully loaded: class-status-manager.php
+[2025-05-06 12:55:49] Successfully loaded: class-sms-service.php
+[2025-05-06 12:55:49] Successfully loaded: class-admin.php
+[2025-05-06 12:55:49] Initializing Admin class
+[2025-05-06 12:55:49] Initializing FluentCRM Hooks class
+[2025-05-06 12:55:49] Plugin initialization completed successfully
+[2025-05-06 12:55:50] Initializing plugin - FluentCRM is active
+[2025-05-06 12:55:50] Successfully loaded: class-db-manager.php
+[2025-05-06 12:55:50] Successfully loaded: class-status-manager.php
+[2025-05-06 12:55:50] Successfully loaded: class-sms-service.php
+[2025-05-06 12:55:50] Successfully loaded: class-admin.php
+[2025-05-06 12:55:50] Initializing Admin class
+[2025-05-06 12:55:50] Initializing FluentCRM Hooks class
+[2025-05-06 12:55:50] Plugin initialization completed successfully
+[2025-05-06 12:55:50] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:55:50] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:55:50] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:55:50] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:55:51] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:55:51] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:57:47] Initializing plugin - FluentCRM is active
+[2025-05-06 12:57:47] Successfully loaded: class-db-manager.php
+[2025-05-06 12:57:47] Successfully loaded: class-status-manager.php
+[2025-05-06 12:57:47] Successfully loaded: class-sms-service.php
+[2025-05-06 12:57:47] Successfully loaded: class-admin.php
+[2025-05-06 12:57:47] Initializing Admin class
+[2025-05-06 12:57:47] Initializing FluentCRM Hooks class
+[2025-05-06 12:57:47] Plugin initialization completed successfully
+[2025-05-06 12:57:47] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:57:47] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:57:47] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:57:47] Initializing plugin - FluentCRM is active
+[2025-05-06 12:57:47] Successfully loaded: class-db-manager.php
+[2025-05-06 12:57:47] Successfully loaded: class-status-manager.php
+[2025-05-06 12:57:47] Successfully loaded: class-sms-service.php
+[2025-05-06 12:57:47] Successfully loaded: class-admin.php
+[2025-05-06 12:57:47] Initializing Admin class
+[2025-05-06 12:57:47] Initializing FluentCRM Hooks class
+[2025-05-06 12:57:47] Plugin initialization completed successfully
+[2025-05-06 12:57:48] Initializing plugin - FluentCRM is active
+[2025-05-06 12:57:48] Successfully loaded: class-db-manager.php
+[2025-05-06 12:57:48] Successfully loaded: class-status-manager.php
+[2025-05-06 12:57:48] Successfully loaded: class-sms-service.php
+[2025-05-06 12:57:48] Successfully loaded: class-admin.php
+[2025-05-06 12:57:48] Initializing Admin class
+[2025-05-06 12:57:48] Initializing FluentCRM Hooks class
+[2025-05-06 12:57:48] Plugin initialization completed successfully
+[2025-05-06 12:57:48] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:57:48] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:57:48] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:57:48] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:57:49] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:57:49] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:59:48] Initializing plugin - FluentCRM is active
+[2025-05-06 12:59:48] Successfully loaded: class-db-manager.php
+[2025-05-06 12:59:48] Successfully loaded: class-status-manager.php
+[2025-05-06 12:59:48] Successfully loaded: class-sms-service.php
+[2025-05-06 12:59:48] Successfully loaded: class-admin.php
+[2025-05-06 12:59:48] Initializing Admin class
+[2025-05-06 12:59:48] Initializing FluentCRM Hooks class
+[2025-05-06 12:59:48] Plugin initialization completed successfully
+[2025-05-06 12:59:48] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:59:48] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:59:48] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:59:48] Initializing plugin - FluentCRM is active
+[2025-05-06 12:59:48] Successfully loaded: class-db-manager.php
+[2025-05-06 12:59:48] Successfully loaded: class-status-manager.php
+[2025-05-06 12:59:48] Successfully loaded: class-sms-service.php
+[2025-05-06 12:59:48] Successfully loaded: class-admin.php
+[2025-05-06 12:59:48] Initializing Admin class
+[2025-05-06 12:59:48] Initializing FluentCRM Hooks class
+[2025-05-06 12:59:48] Plugin initialization completed successfully
+[2025-05-06 12:59:49] Initializing plugin - FluentCRM is active
+[2025-05-06 12:59:49] Successfully loaded: class-db-manager.php
+[2025-05-06 12:59:49] Successfully loaded: class-status-manager.php
+[2025-05-06 12:59:49] Successfully loaded: class-sms-service.php
+[2025-05-06 12:59:49] Successfully loaded: class-admin.php
+[2025-05-06 12:59:49] Initializing Admin class
+[2025-05-06 12:59:49] Initializing FluentCRM Hooks class
+[2025-05-06 12:59:49] Plugin initialization completed successfully
+[2025-05-06 12:59:49] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:59:49] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:59:49] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 12:59:49] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 12:59:50] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 12:59:50] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:01:49] Initializing plugin - FluentCRM is active
+[2025-05-06 13:01:49] Successfully loaded: class-db-manager.php
+[2025-05-06 13:01:49] Successfully loaded: class-status-manager.php
+[2025-05-06 13:01:49] Successfully loaded: class-sms-service.php
+[2025-05-06 13:01:49] Successfully loaded: class-admin.php
+[2025-05-06 13:01:49] Initializing Admin class
+[2025-05-06 13:01:49] Initializing FluentCRM Hooks class
+[2025-05-06 13:01:49] Plugin initialization completed successfully
+[2025-05-06 13:01:49] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:01:49] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:01:49] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:01:50] Initializing plugin - FluentCRM is active
+[2025-05-06 13:01:50] Successfully loaded: class-db-manager.php
+[2025-05-06 13:01:50] Successfully loaded: class-status-manager.php
+[2025-05-06 13:01:50] Successfully loaded: class-sms-service.php
+[2025-05-06 13:01:50] Successfully loaded: class-admin.php
+[2025-05-06 13:01:50] Initializing Admin class
+[2025-05-06 13:01:50] Initializing FluentCRM Hooks class
+[2025-05-06 13:01:50] Plugin initialization completed successfully
+[2025-05-06 13:01:50] Initializing plugin - FluentCRM is active
+[2025-05-06 13:01:50] Successfully loaded: class-db-manager.php
+[2025-05-06 13:01:50] Successfully loaded: class-status-manager.php
+[2025-05-06 13:01:50] Successfully loaded: class-sms-service.php
+[2025-05-06 13:01:50] Successfully loaded: class-admin.php
+[2025-05-06 13:01:50] Initializing Admin class
+[2025-05-06 13:01:50] Initializing FluentCRM Hooks class
+[2025-05-06 13:01:50] Plugin initialization completed successfully
+[2025-05-06 13:01:50] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:01:50] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:01:50] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:01:50] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:01:51] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:01:51] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:03:50] Initializing plugin - FluentCRM is active
+[2025-05-06 13:03:50] Successfully loaded: class-db-manager.php
+[2025-05-06 13:03:50] Successfully loaded: class-status-manager.php
+[2025-05-06 13:03:50] Successfully loaded: class-sms-service.php
+[2025-05-06 13:03:50] Successfully loaded: class-admin.php
+[2025-05-06 13:03:50] Initializing Admin class
+[2025-05-06 13:03:50] Initializing FluentCRM Hooks class
+[2025-05-06 13:03:50] Plugin initialization completed successfully
+[2025-05-06 13:03:50] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:03:50] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:03:50] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:03:50] Initializing plugin - FluentCRM is active
+[2025-05-06 13:03:50] Successfully loaded: class-db-manager.php
+[2025-05-06 13:03:50] Successfully loaded: class-status-manager.php
+[2025-05-06 13:03:50] Successfully loaded: class-sms-service.php
+[2025-05-06 13:03:50] Successfully loaded: class-admin.php
+[2025-05-06 13:03:50] Initializing Admin class
+[2025-05-06 13:03:50] Initializing FluentCRM Hooks class
+[2025-05-06 13:03:50] Plugin initialization completed successfully
+[2025-05-06 13:03:51] Initializing plugin - FluentCRM is active
+[2025-05-06 13:03:51] Successfully loaded: class-db-manager.php
+[2025-05-06 13:03:51] Successfully loaded: class-status-manager.php
+[2025-05-06 13:03:51] Successfully loaded: class-sms-service.php
+[2025-05-06 13:03:51] Successfully loaded: class-admin.php
+[2025-05-06 13:03:51] Initializing Admin class
+[2025-05-06 13:03:51] Initializing FluentCRM Hooks class
+[2025-05-06 13:03:51] Plugin initialization completed successfully
+[2025-05-06 13:03:51] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:03:51] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:03:51] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:03:51] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:03:52] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:03:52] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:05:51] Initializing plugin - FluentCRM is active
+[2025-05-06 13:05:51] Successfully loaded: class-db-manager.php
+[2025-05-06 13:05:51] Successfully loaded: class-status-manager.php
+[2025-05-06 13:05:51] Successfully loaded: class-sms-service.php
+[2025-05-06 13:05:51] Successfully loaded: class-admin.php
+[2025-05-06 13:05:51] Initializing Admin class
+[2025-05-06 13:05:51] Initializing FluentCRM Hooks class
+[2025-05-06 13:05:51] Plugin initialization completed successfully
+[2025-05-06 13:05:51] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:05:51] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:05:51] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:05:51] Initializing plugin - FluentCRM is active
+[2025-05-06 13:05:51] Successfully loaded: class-db-manager.php
+[2025-05-06 13:05:51] Successfully loaded: class-status-manager.php
+[2025-05-06 13:05:51] Successfully loaded: class-sms-service.php
+[2025-05-06 13:05:51] Successfully loaded: class-admin.php
+[2025-05-06 13:05:51] Initializing Admin class
+[2025-05-06 13:05:51] Initializing FluentCRM Hooks class
+[2025-05-06 13:05:51] Plugin initialization completed successfully
+[2025-05-06 13:05:52] Initializing plugin - FluentCRM is active
+[2025-05-06 13:05:52] Successfully loaded: class-db-manager.php
+[2025-05-06 13:05:52] Successfully loaded: class-status-manager.php
+[2025-05-06 13:05:52] Successfully loaded: class-sms-service.php
+[2025-05-06 13:05:52] Successfully loaded: class-admin.php
+[2025-05-06 13:05:52] Initializing Admin class
+[2025-05-06 13:05:52] Initializing FluentCRM Hooks class
+[2025-05-06 13:05:52] Plugin initialization completed successfully
+[2025-05-06 13:05:52] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:05:52] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:05:52] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:05:52] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:05:53] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:05:53] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:07:52] Initializing plugin - FluentCRM is active
+[2025-05-06 13:07:52] Successfully loaded: class-db-manager.php
+[2025-05-06 13:07:52] Successfully loaded: class-status-manager.php
+[2025-05-06 13:07:52] Successfully loaded: class-sms-service.php
+[2025-05-06 13:07:52] Successfully loaded: class-admin.php
+[2025-05-06 13:07:52] Initializing Admin class
+[2025-05-06 13:07:52] Initializing FluentCRM Hooks class
+[2025-05-06 13:07:52] Plugin initialization completed successfully
+[2025-05-06 13:07:52] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:07:52] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:07:52] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:07:52] Initializing plugin - FluentCRM is active
+[2025-05-06 13:07:52] Successfully loaded: class-db-manager.php
+[2025-05-06 13:07:52] Successfully loaded: class-status-manager.php
+[2025-05-06 13:07:52] Successfully loaded: class-sms-service.php
+[2025-05-06 13:07:52] Successfully loaded: class-admin.php
+[2025-05-06 13:07:52] Initializing Admin class
+[2025-05-06 13:07:52] Initializing FluentCRM Hooks class
+[2025-05-06 13:07:52] Plugin initialization completed successfully
+[2025-05-06 13:07:53] Initializing plugin - FluentCRM is active
+[2025-05-06 13:07:53] Successfully loaded: class-db-manager.php
+[2025-05-06 13:07:53] Successfully loaded: class-status-manager.php
+[2025-05-06 13:07:53] Successfully loaded: class-sms-service.php
+[2025-05-06 13:07:53] Successfully loaded: class-admin.php
+[2025-05-06 13:07:53] Initializing Admin class
+[2025-05-06 13:07:53] Initializing FluentCRM Hooks class
+[2025-05-06 13:07:53] Plugin initialization completed successfully
+[2025-05-06 13:07:53] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:07:53] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:07:53] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:07:53] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:07:54] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:07:54] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:09:53] Initializing plugin - FluentCRM is active
+[2025-05-06 13:09:53] Successfully loaded: class-db-manager.php
+[2025-05-06 13:09:53] Successfully loaded: class-status-manager.php
+[2025-05-06 13:09:53] Successfully loaded: class-sms-service.php
+[2025-05-06 13:09:53] Successfully loaded: class-admin.php
+[2025-05-06 13:09:53] Initializing Admin class
+[2025-05-06 13:09:53] Initializing FluentCRM Hooks class
+[2025-05-06 13:09:53] Plugin initialization completed successfully
+[2025-05-06 13:09:53] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:09:53] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:09:53] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:09:53] Initializing plugin - FluentCRM is active
+[2025-05-06 13:09:53] Successfully loaded: class-db-manager.php
+[2025-05-06 13:09:53] Successfully loaded: class-status-manager.php
+[2025-05-06 13:09:53] Successfully loaded: class-sms-service.php
+[2025-05-06 13:09:53] Successfully loaded: class-admin.php
+[2025-05-06 13:09:53] Initializing Admin class
+[2025-05-06 13:09:53] Initializing FluentCRM Hooks class
+[2025-05-06 13:09:53] Plugin initialization completed successfully
+[2025-05-06 13:09:54] Initializing plugin - FluentCRM is active
+[2025-05-06 13:09:54] Successfully loaded: class-db-manager.php
+[2025-05-06 13:09:54] Successfully loaded: class-status-manager.php
+[2025-05-06 13:09:54] Successfully loaded: class-sms-service.php
+[2025-05-06 13:09:54] Successfully loaded: class-admin.php
+[2025-05-06 13:09:54] Initializing Admin class
+[2025-05-06 13:09:54] Initializing FluentCRM Hooks class
+[2025-05-06 13:09:54] Plugin initialization completed successfully
+[2025-05-06 13:09:54] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:09:54] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:09:54] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:09:54] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:09:55] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:09:55] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:11:54] Initializing plugin - FluentCRM is active
+[2025-05-06 13:11:54] Successfully loaded: class-db-manager.php
+[2025-05-06 13:11:54] Successfully loaded: class-status-manager.php
+[2025-05-06 13:11:54] Successfully loaded: class-sms-service.php
+[2025-05-06 13:11:54] Successfully loaded: class-admin.php
+[2025-05-06 13:11:54] Initializing Admin class
+[2025-05-06 13:11:54] Initializing FluentCRM Hooks class
+[2025-05-06 13:11:54] Plugin initialization completed successfully
+[2025-05-06 13:11:54] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:11:54] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:11:54] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:11:54] Initializing plugin - FluentCRM is active
+[2025-05-06 13:11:54] Successfully loaded: class-db-manager.php
+[2025-05-06 13:11:54] Successfully loaded: class-status-manager.php
+[2025-05-06 13:11:54] Successfully loaded: class-sms-service.php
+[2025-05-06 13:11:54] Successfully loaded: class-admin.php
+[2025-05-06 13:11:54] Initializing Admin class
+[2025-05-06 13:11:54] Initializing FluentCRM Hooks class
+[2025-05-06 13:11:54] Plugin initialization completed successfully
+[2025-05-06 13:11:55] Initializing plugin - FluentCRM is active
+[2025-05-06 13:11:55] Successfully loaded: class-db-manager.php
+[2025-05-06 13:11:55] Successfully loaded: class-status-manager.php
+[2025-05-06 13:11:55] Successfully loaded: class-sms-service.php
+[2025-05-06 13:11:55] Successfully loaded: class-admin.php
+[2025-05-06 13:11:55] Initializing Admin class
+[2025-05-06 13:11:55] Initializing FluentCRM Hooks class
+[2025-05-06 13:11:55] Plugin initialization completed successfully
+[2025-05-06 13:11:55] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:11:55] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:11:55] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:11:55] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:11:56] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:11:56] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:13:55] Initializing plugin - FluentCRM is active
+[2025-05-06 13:13:55] Successfully loaded: class-db-manager.php
+[2025-05-06 13:13:55] Successfully loaded: class-status-manager.php
+[2025-05-06 13:13:55] Successfully loaded: class-sms-service.php
+[2025-05-06 13:13:55] Successfully loaded: class-admin.php
+[2025-05-06 13:13:55] Initializing Admin class
+[2025-05-06 13:13:55] Initializing FluentCRM Hooks class
+[2025-05-06 13:13:55] Plugin initialization completed successfully
+[2025-05-06 13:13:56] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:13:57] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:13:57] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:13:58] Initializing plugin - FluentCRM is active
+[2025-05-06 13:13:58] Successfully loaded: class-db-manager.php
+[2025-05-06 13:13:58] Successfully loaded: class-status-manager.php
+[2025-05-06 13:13:58] Successfully loaded: class-sms-service.php
+[2025-05-06 13:13:58] Successfully loaded: class-admin.php
+[2025-05-06 13:13:58] Initializing Admin class
+[2025-05-06 13:13:58] Initializing FluentCRM Hooks class
+[2025-05-06 13:13:58] Plugin initialization completed successfully
+[2025-05-06 13:13:58] Initializing plugin - FluentCRM is active
+[2025-05-06 13:13:58] Successfully loaded: class-db-manager.php
+[2025-05-06 13:13:58] Successfully loaded: class-status-manager.php
+[2025-05-06 13:13:58] Successfully loaded: class-sms-service.php
+[2025-05-06 13:13:58] Successfully loaded: class-admin.php
+[2025-05-06 13:13:58] Initializing Admin class
+[2025-05-06 13:13:58] Initializing FluentCRM Hooks class
+[2025-05-06 13:13:58] Plugin initialization completed successfully
+[2025-05-06 13:13:59] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:13:59] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:14:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:14:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:14:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:14:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:15:56] Initializing plugin - FluentCRM is active
+[2025-05-06 13:15:56] Successfully loaded: class-db-manager.php
+[2025-05-06 13:15:56] Successfully loaded: class-status-manager.php
+[2025-05-06 13:15:56] Successfully loaded: class-sms-service.php
+[2025-05-06 13:15:56] Successfully loaded: class-admin.php
+[2025-05-06 13:15:56] Initializing Admin class
+[2025-05-06 13:15:56] Initializing FluentCRM Hooks class
+[2025-05-06 13:15:56] Plugin initialization completed successfully
+[2025-05-06 13:15:56] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:15:56] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:15:56] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:15:56] Initializing plugin - FluentCRM is active
+[2025-05-06 13:15:56] Successfully loaded: class-db-manager.php
+[2025-05-06 13:15:56] Successfully loaded: class-status-manager.php
+[2025-05-06 13:15:56] Successfully loaded: class-sms-service.php
+[2025-05-06 13:15:56] Successfully loaded: class-admin.php
+[2025-05-06 13:15:56] Initializing Admin class
+[2025-05-06 13:15:56] Initializing FluentCRM Hooks class
+[2025-05-06 13:15:56] Plugin initialization completed successfully
+[2025-05-06 13:15:57] Initializing plugin - FluentCRM is active
+[2025-05-06 13:15:57] Successfully loaded: class-db-manager.php
+[2025-05-06 13:15:57] Successfully loaded: class-status-manager.php
+[2025-05-06 13:15:57] Successfully loaded: class-sms-service.php
+[2025-05-06 13:15:57] Successfully loaded: class-admin.php
+[2025-05-06 13:15:57] Initializing Admin class
+[2025-05-06 13:15:57] Initializing FluentCRM Hooks class
+[2025-05-06 13:15:57] Plugin initialization completed successfully
+[2025-05-06 13:15:57] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:15:57] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:15:57] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:15:57] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:15:58] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:15:58] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:17:57] Initializing plugin - FluentCRM is active
+[2025-05-06 13:17:57] Successfully loaded: class-db-manager.php
+[2025-05-06 13:17:57] Successfully loaded: class-status-manager.php
+[2025-05-06 13:17:57] Successfully loaded: class-sms-service.php
+[2025-05-06 13:17:57] Successfully loaded: class-admin.php
+[2025-05-06 13:17:57] Initializing Admin class
+[2025-05-06 13:17:57] Initializing FluentCRM Hooks class
+[2025-05-06 13:17:57] Plugin initialization completed successfully
+[2025-05-06 13:17:57] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:17:57] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:17:57] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:17:57] Initializing plugin - FluentCRM is active
+[2025-05-06 13:17:57] Successfully loaded: class-db-manager.php
+[2025-05-06 13:17:57] Successfully loaded: class-status-manager.php
+[2025-05-06 13:17:57] Successfully loaded: class-sms-service.php
+[2025-05-06 13:17:57] Successfully loaded: class-admin.php
+[2025-05-06 13:17:57] Initializing Admin class
+[2025-05-06 13:17:57] Initializing FluentCRM Hooks class
+[2025-05-06 13:17:57] Plugin initialization completed successfully
+[2025-05-06 13:17:58] Initializing plugin - FluentCRM is active
+[2025-05-06 13:17:58] Successfully loaded: class-db-manager.php
+[2025-05-06 13:17:58] Successfully loaded: class-status-manager.php
+[2025-05-06 13:17:58] Successfully loaded: class-sms-service.php
+[2025-05-06 13:17:58] Successfully loaded: class-admin.php
+[2025-05-06 13:17:58] Initializing Admin class
+[2025-05-06 13:17:58] Initializing FluentCRM Hooks class
+[2025-05-06 13:17:58] Plugin initialization completed successfully
+[2025-05-06 13:17:58] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:17:58] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:17:58] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:17:58] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:17:59] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:17:59] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:20:01] Initializing plugin - FluentCRM is active
+[2025-05-06 13:20:01] Successfully loaded: class-db-manager.php
+[2025-05-06 13:20:01] Successfully loaded: class-status-manager.php
+[2025-05-06 13:20:01] Successfully loaded: class-sms-service.php
+[2025-05-06 13:20:01] Successfully loaded: class-admin.php
+[2025-05-06 13:20:01] Initializing Admin class
+[2025-05-06 13:20:01] Initializing FluentCRM Hooks class
+[2025-05-06 13:20:01] Plugin initialization completed successfully
+[2025-05-06 13:20:01] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:20:02] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:20:02] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:20:02] Initializing plugin - FluentCRM is active
+[2025-05-06 13:20:02] Successfully loaded: class-db-manager.php
+[2025-05-06 13:20:02] Successfully loaded: class-status-manager.php
+[2025-05-06 13:20:02] Successfully loaded: class-sms-service.php
+[2025-05-06 13:20:02] Successfully loaded: class-admin.php
+[2025-05-06 13:20:02] Initializing Admin class
+[2025-05-06 13:20:02] Initializing FluentCRM Hooks class
+[2025-05-06 13:20:02] Plugin initialization completed successfully
+[2025-05-06 13:20:02] Initializing plugin - FluentCRM is active
+[2025-05-06 13:20:02] Successfully loaded: class-db-manager.php
+[2025-05-06 13:20:02] Successfully loaded: class-status-manager.php
+[2025-05-06 13:20:02] Successfully loaded: class-sms-service.php
+[2025-05-06 13:20:02] Successfully loaded: class-admin.php
+[2025-05-06 13:20:02] Initializing Admin class
+[2025-05-06 13:20:02] Initializing FluentCRM Hooks class
+[2025-05-06 13:20:02] Plugin initialization completed successfully
+[2025-05-06 13:20:03] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:20:03] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:20:03] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:20:03] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:20:03] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:20:03] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:21:59] Initializing plugin - FluentCRM is active
+[2025-05-06 13:21:59] Successfully loaded: class-db-manager.php
+[2025-05-06 13:21:59] Successfully loaded: class-status-manager.php
+[2025-05-06 13:21:59] Successfully loaded: class-sms-service.php
+[2025-05-06 13:21:59] Successfully loaded: class-admin.php
+[2025-05-06 13:21:59] Initializing Admin class
+[2025-05-06 13:21:59] Initializing FluentCRM Hooks class
+[2025-05-06 13:21:59] Plugin initialization completed successfully
+[2025-05-06 13:21:59] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:21:59] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:21:59] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:21:59] Initializing plugin - FluentCRM is active
+[2025-05-06 13:21:59] Successfully loaded: class-db-manager.php
+[2025-05-06 13:21:59] Successfully loaded: class-status-manager.php
+[2025-05-06 13:21:59] Successfully loaded: class-sms-service.php
+[2025-05-06 13:21:59] Successfully loaded: class-admin.php
+[2025-05-06 13:21:59] Initializing Admin class
+[2025-05-06 13:21:59] Initializing FluentCRM Hooks class
+[2025-05-06 13:21:59] Plugin initialization completed successfully
+[2025-05-06 13:22:00] Initializing plugin - FluentCRM is active
+[2025-05-06 13:22:00] Successfully loaded: class-db-manager.php
+[2025-05-06 13:22:00] Successfully loaded: class-status-manager.php
+[2025-05-06 13:22:00] Successfully loaded: class-sms-service.php
+[2025-05-06 13:22:00] Successfully loaded: class-admin.php
+[2025-05-06 13:22:00] Initializing Admin class
+[2025-05-06 13:22:00] Initializing FluentCRM Hooks class
+[2025-05-06 13:22:00] Plugin initialization completed successfully
+[2025-05-06 13:22:00] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:22:00] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:22:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:22:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:22:01] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:22:01] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:24:00] Initializing plugin - FluentCRM is active
+[2025-05-06 13:24:00] Successfully loaded: class-db-manager.php
+[2025-05-06 13:24:00] Successfully loaded: class-status-manager.php
+[2025-05-06 13:24:00] Successfully loaded: class-sms-service.php
+[2025-05-06 13:24:00] Successfully loaded: class-admin.php
+[2025-05-06 13:24:00] Initializing Admin class
+[2025-05-06 13:24:00] Initializing FluentCRM Hooks class
+[2025-05-06 13:24:00] Plugin initialization completed successfully
+[2025-05-06 13:24:00] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:24:00] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:24:00] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:24:01] Initializing plugin - FluentCRM is active
+[2025-05-06 13:24:01] Successfully loaded: class-db-manager.php
+[2025-05-06 13:24:01] Successfully loaded: class-status-manager.php
+[2025-05-06 13:24:01] Successfully loaded: class-sms-service.php
+[2025-05-06 13:24:01] Successfully loaded: class-admin.php
+[2025-05-06 13:24:01] Initializing Admin class
+[2025-05-06 13:24:01] Initializing FluentCRM Hooks class
+[2025-05-06 13:24:01] Plugin initialization completed successfully
+[2025-05-06 13:24:01] Initializing plugin - FluentCRM is active
+[2025-05-06 13:24:01] Successfully loaded: class-db-manager.php
+[2025-05-06 13:24:01] Successfully loaded: class-status-manager.php
+[2025-05-06 13:24:01] Successfully loaded: class-sms-service.php
+[2025-05-06 13:24:01] Successfully loaded: class-admin.php
+[2025-05-06 13:24:01] Initializing Admin class
+[2025-05-06 13:24:01] Initializing FluentCRM Hooks class
+[2025-05-06 13:24:01] Plugin initialization completed successfully
+[2025-05-06 13:24:01] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:24:01] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:24:02] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:24:02] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:24:02] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:24:02] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:26:01] Initializing plugin - FluentCRM is active
+[2025-05-06 13:26:01] Successfully loaded: class-db-manager.php
+[2025-05-06 13:26:01] Successfully loaded: class-status-manager.php
+[2025-05-06 13:26:01] Successfully loaded: class-sms-service.php
+[2025-05-06 13:26:01] Successfully loaded: class-admin.php
+[2025-05-06 13:26:01] Initializing Admin class
+[2025-05-06 13:26:01] Initializing FluentCRM Hooks class
+[2025-05-06 13:26:01] Plugin initialization completed successfully
+[2025-05-06 13:26:01] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:26:01] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:26:01] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:26:02] Initializing plugin - FluentCRM is active
+[2025-05-06 13:26:02] Successfully loaded: class-db-manager.php
+[2025-05-06 13:26:02] Successfully loaded: class-status-manager.php
+[2025-05-06 13:26:02] Successfully loaded: class-sms-service.php
+[2025-05-06 13:26:02] Successfully loaded: class-admin.php
+[2025-05-06 13:26:02] Initializing Admin class
+[2025-05-06 13:26:02] Initializing FluentCRM Hooks class
+[2025-05-06 13:26:02] Plugin initialization completed successfully
+[2025-05-06 13:26:02] Initializing plugin - FluentCRM is active
+[2025-05-06 13:26:02] Successfully loaded: class-db-manager.php
+[2025-05-06 13:26:02] Successfully loaded: class-status-manager.php
+[2025-05-06 13:26:02] Successfully loaded: class-sms-service.php
+[2025-05-06 13:26:02] Successfully loaded: class-admin.php
+[2025-05-06 13:26:02] Initializing Admin class
+[2025-05-06 13:26:02] Initializing FluentCRM Hooks class
+[2025-05-06 13:26:02] Plugin initialization completed successfully
+[2025-05-06 13:26:02] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:26:02] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:26:03] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:26:03] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:26:03] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:26:03] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:28:02] Initializing plugin - FluentCRM is active
+[2025-05-06 13:28:02] Successfully loaded: class-db-manager.php
+[2025-05-06 13:28:02] Successfully loaded: class-status-manager.php
+[2025-05-06 13:28:02] Successfully loaded: class-sms-service.php
+[2025-05-06 13:28:02] Successfully loaded: class-admin.php
+[2025-05-06 13:28:02] Initializing Admin class
+[2025-05-06 13:28:02] Initializing FluentCRM Hooks class
+[2025-05-06 13:28:02] Plugin initialization completed successfully
+[2025-05-06 13:28:02] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:28:02] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:28:02] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:28:02] Initializing plugin - FluentCRM is active
+[2025-05-06 13:28:02] Successfully loaded: class-db-manager.php
+[2025-05-06 13:28:02] Successfully loaded: class-status-manager.php
+[2025-05-06 13:28:02] Successfully loaded: class-sms-service.php
+[2025-05-06 13:28:02] Successfully loaded: class-admin.php
+[2025-05-06 13:28:02] Initializing Admin class
+[2025-05-06 13:28:02] Initializing FluentCRM Hooks class
+[2025-05-06 13:28:02] Plugin initialization completed successfully
+[2025-05-06 13:28:03] Initializing plugin - FluentCRM is active
+[2025-05-06 13:28:03] Successfully loaded: class-db-manager.php
+[2025-05-06 13:28:03] Successfully loaded: class-status-manager.php
+[2025-05-06 13:28:03] Successfully loaded: class-sms-service.php
+[2025-05-06 13:28:03] Successfully loaded: class-admin.php
+[2025-05-06 13:28:03] Initializing Admin class
+[2025-05-06 13:28:03] Initializing FluentCRM Hooks class
+[2025-05-06 13:28:03] Plugin initialization completed successfully
+[2025-05-06 13:28:03] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:28:03] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:28:04] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:28:04] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:28:04] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:28:04] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:30:03] Initializing plugin - FluentCRM is active
+[2025-05-06 13:30:03] Successfully loaded: class-db-manager.php
+[2025-05-06 13:30:03] Successfully loaded: class-status-manager.php
+[2025-05-06 13:30:03] Successfully loaded: class-sms-service.php
+[2025-05-06 13:30:03] Successfully loaded: class-admin.php
+[2025-05-06 13:30:03] Initializing Admin class
+[2025-05-06 13:30:03] Initializing FluentCRM Hooks class
+[2025-05-06 13:30:03] Plugin initialization completed successfully
+[2025-05-06 13:30:03] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:30:03] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:30:03] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:30:04] Initializing plugin - FluentCRM is active
+[2025-05-06 13:30:04] Successfully loaded: class-db-manager.php
+[2025-05-06 13:30:04] Successfully loaded: class-status-manager.php
+[2025-05-06 13:30:04] Successfully loaded: class-sms-service.php
+[2025-05-06 13:30:04] Successfully loaded: class-admin.php
+[2025-05-06 13:30:04] Initializing Admin class
+[2025-05-06 13:30:04] Initializing FluentCRM Hooks class
+[2025-05-06 13:30:04] Plugin initialization completed successfully
+[2025-05-06 13:30:04] Initializing plugin - FluentCRM is active
+[2025-05-06 13:30:04] Successfully loaded: class-db-manager.php
+[2025-05-06 13:30:04] Successfully loaded: class-status-manager.php
+[2025-05-06 13:30:04] Successfully loaded: class-sms-service.php
+[2025-05-06 13:30:04] Successfully loaded: class-admin.php
+[2025-05-06 13:30:04] Initializing Admin class
+[2025-05-06 13:30:04] Initializing FluentCRM Hooks class
+[2025-05-06 13:30:04] Plugin initialization completed successfully
+[2025-05-06 13:30:05] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:30:06] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:30:06] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:30:06] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:30:06] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:30:06] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:32:04] Initializing plugin - FluentCRM is active
+[2025-05-06 13:32:04] Successfully loaded: class-db-manager.php
+[2025-05-06 13:32:04] Successfully loaded: class-status-manager.php
+[2025-05-06 13:32:04] Successfully loaded: class-sms-service.php
+[2025-05-06 13:32:04] Successfully loaded: class-admin.php
+[2025-05-06 13:32:04] Initializing Admin class
+[2025-05-06 13:32:04] Initializing FluentCRM Hooks class
+[2025-05-06 13:32:04] Plugin initialization completed successfully
+[2025-05-06 13:32:04] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:32:04] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:32:04] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:32:04] Initializing plugin - FluentCRM is active
+[2025-05-06 13:32:04] Successfully loaded: class-db-manager.php
+[2025-05-06 13:32:04] Successfully loaded: class-status-manager.php
+[2025-05-06 13:32:04] Successfully loaded: class-sms-service.php
+[2025-05-06 13:32:04] Successfully loaded: class-admin.php
+[2025-05-06 13:32:04] Initializing Admin class
+[2025-05-06 13:32:04] Initializing FluentCRM Hooks class
+[2025-05-06 13:32:04] Plugin initialization completed successfully
+[2025-05-06 13:32:05] Initializing plugin - FluentCRM is active
+[2025-05-06 13:32:05] Successfully loaded: class-db-manager.php
+[2025-05-06 13:32:05] Successfully loaded: class-status-manager.php
+[2025-05-06 13:32:05] Successfully loaded: class-sms-service.php
+[2025-05-06 13:32:05] Successfully loaded: class-admin.php
+[2025-05-06 13:32:05] Initializing Admin class
+[2025-05-06 13:32:05] Initializing FluentCRM Hooks class
+[2025-05-06 13:32:05] Plugin initialization completed successfully
+[2025-05-06 13:32:05] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:32:05] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:32:05] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:32:05] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:32:06] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:32:06] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:34:05] Initializing plugin - FluentCRM is active
+[2025-05-06 13:34:05] Successfully loaded: class-db-manager.php
+[2025-05-06 13:34:05] Successfully loaded: class-status-manager.php
+[2025-05-06 13:34:05] Successfully loaded: class-sms-service.php
+[2025-05-06 13:34:05] Successfully loaded: class-admin.php
+[2025-05-06 13:34:05] Initializing Admin class
+[2025-05-06 13:34:05] Initializing FluentCRM Hooks class
+[2025-05-06 13:34:05] Plugin initialization completed successfully
+[2025-05-06 13:34:05] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:34:05] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:34:05] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:34:05] Initializing plugin - FluentCRM is active
+[2025-05-06 13:34:05] Successfully loaded: class-db-manager.php
+[2025-05-06 13:34:05] Successfully loaded: class-status-manager.php
+[2025-05-06 13:34:05] Successfully loaded: class-sms-service.php
+[2025-05-06 13:34:05] Successfully loaded: class-admin.php
+[2025-05-06 13:34:05] Initializing Admin class
+[2025-05-06 13:34:05] Initializing FluentCRM Hooks class
+[2025-05-06 13:34:05] Plugin initialization completed successfully
+[2025-05-06 13:34:06] Initializing plugin - FluentCRM is active
+[2025-05-06 13:34:06] Successfully loaded: class-db-manager.php
+[2025-05-06 13:34:06] Successfully loaded: class-status-manager.php
+[2025-05-06 13:34:06] Successfully loaded: class-sms-service.php
+[2025-05-06 13:34:06] Successfully loaded: class-admin.php
+[2025-05-06 13:34:06] Initializing Admin class
+[2025-05-06 13:34:06] Initializing FluentCRM Hooks class
+[2025-05-06 13:34:06] Plugin initialization completed successfully
+[2025-05-06 13:34:06] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:34:06] Attempting to register FluentCRM API callback endpoint
+[2025-05-06 13:34:06] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:34:06] BipSmsAction registered with fluent_crm/after_init hook
+[2025-05-06 13:34:07] BipSmsAction initialized with actionName: bip_sms_send
+[2025-05-06 13:34:07] BipSmsAction registered with fluent_crm/after_init hook

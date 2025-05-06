@@ -1,0 +1,261 @@
+2025-04-16 09:38:30 - file_get_contents: http://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=30f269925489570c01a5fe02adefc20b&message=teszt+sms&number=%2B36307860808&senderid=
+2025-04-16 09:38:31 - array (
+  'result' => 'ERR',
+  'code' => '300',
+  'message' => 'Az e-mail cím vagy jelszó hibás, az API hozzáférés nincs bekapcsolva (ld. Beállítások menüpont), vagy hozzáférés letiltva.',
+)
+2025-04-16 09:40:00 - file_get_contents: http://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=30f269925489570c01a5fe02adefc20b&message=teszt+sms&number=%2B36307860808&senderid=
+2025-04-16 09:40:00 - array (
+  'result' => 'ERR',
+  'code' => '300',
+  'message' => 'Az e-mail cím vagy jelszó hibás, az API hozzáférés nincs bekapcsolva (ld. Beállítások menüpont), vagy hozzáférés letiltva.',
+)
+2025-04-16 09:41:40 - file_get_contents: http://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=30f269925489570c01a5fe02adefc20b&message=teszt+uzenet&number=%2B36307860808&senderid=SinkoAngi
+2025-04-16 09:41:40 - array (
+  'result' => 'ERR',
+  'code' => '300',
+  'message' => 'Az e-mail cím vagy jelszó hibás, az API hozzáférés nincs bekapcsolva (ld. Beállítások menüpont), vagy hozzáférés letiltva.',
+)
+2025-04-16 09:47:12 - file_get_contents: https://api.bipkampany.hu/getbalance?email=kapcsolat%40sinkoangi.hu&password=30f269925489570c01a5fe02adefc20b
+2025-04-16 09:47:13 - array (
+  'result' => 'ERR',
+  'code' => '300',
+  'message' => 'Az e-mail cím vagy jelszó hibás, az API hozzáférés nincs bekapcsolva (ld. Beállítások menüpont), vagy hozzáférés letiltva.',
+)
+2025-04-16 09:47:28 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=30f269925489570c01a5fe02adefc20b&message=teszt+uzenet&number=%2B36307860808&senderid=
+2025-04-16 09:47:28 - array (
+  'result' => 'ERR',
+  'code' => '300',
+  'message' => 'Az e-mail cím vagy jelszó hibás, az API hozzáférés nincs bekapcsolva (ld. Beállítások menüpont), vagy hozzáférés letiltva.',
+)
+2025-04-16 09:53:45 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=teszt+uzenet&number=%2B36307860808&senderid=
+2025-04-16 09:53:46 - array (
+  'result' => 'ERR',
+  'code' => '101',
+  'message' => 'Csak szám adható át a következő paraméterben: number',
+)
+2025-04-16 09:55:01 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=teszt+uzenet&number=36307860808&senderid=
+2025-04-16 09:55:02 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-16 12:03:21 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=uj+teszt+sms+ha+automatizmus+lefut&number=%2B3606307860808&senderid=
+2025-04-16 12:03:21 - array (
+  'result' => 'ERR',
+  'code' => '101',
+  'message' => 'Csak szám adható át a következő paraméterben: number',
+)
+2025-04-16 12:07:19 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=uj+teszt+sms+ha+automatizmus+lefut&number=3606307860808&senderid=
+2025-04-16 12:07:19 - array (
+  'result' => 'ERR',
+  'code' => '102',
+  'message' => 'A telefonszámot nemzetközi formában kell megadni, vagy az adott telefonszám nem támogatott (3606307860808).',
+)
+2025-04-16 12:09:20 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=uj+teszt+sms+ha+automatizmus+lefut&number=36307860808&senderid=
+2025-04-16 12:09:21 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-16 12:10:41 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=uj+teszt+sms+ha+automatizmus+lefut&number=36307860808&senderid=
+2025-04-16 12:10:42 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-17 18:46:37 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=teszt&number=06307860808&senderid=
+2025-04-17 18:46:38 - array (
+  'result' => 'ERR',
+  'code' => '102',
+  'message' => 'A telefonszámot nemzetközi formában kell megadni, vagy az adott telefonszám nem támogatott (6307860808).',
+)
+2025-04-17 18:54:01 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=testzaa&number=06307860808&senderid=
+2025-04-17 18:54:02 - array (
+  'result' => 'ERR',
+  'code' => '102',
+  'message' => 'A telefonszámot nemzetközi formában kell megadni, vagy az adott telefonszám nem támogatott (6307860808).',
+)
+2025-04-17 19:04:58 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=teszt&number=06307860808&senderid=
+2025-04-17 19:04:58 - array (
+  'result' => 'ERR',
+  'code' => '102',
+  'message' => 'A telefonszámot nemzetközi formában kell megadni, vagy az adott telefonszám nem támogatott (6307860808).',
+)
+2025-04-17 19:05:53 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=teszt&number=36307860808&senderid=
+2025-04-17 19:05:53 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-17 21:20:24 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=teszt&number=36307860808&senderid=
+2025-04-17 21:20:25 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-17 21:24:43 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=agagag&number=36307860808&senderid=
+2025-04-17 21:24:43 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-17 22:17:35 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=stathoz+sms+kuldes&number=36307860808&senderid=&referenceid=8-212&callback=https%3A%2F%2Fstaging.sinkoangi.hu%2Fwp-json%2Ffcbip-sms%2Fv1%2Fcallback
+2025-04-17 22:17:36 - array (
+  'result' => 'ERR',
+  'code' => '106',
+  'message' => 'A callback paraméter formátuma hibás',
+)
+2025-04-17 22:20:23 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=stathoz+kuldes&number=36307860808&senderid=&referenceid=9-212&callback=https%3A%2F%2Fstaging.sinkoangi.hu%2Fwp-json%2Ffcbip-sms%2Fv1%2Fcallback
+2025-04-17 22:20:23 - array (
+  'result' => 'ERR',
+  'code' => '106',
+  'message' => 'A callback paraméter formátuma hibás',
+)
+2025-04-17 22:21:48 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=agagag&number=36307860808&senderid=&referenceid=10-212&callback=https%3A%2F%2Fstaging.sinkoangi.hu%2Fwp-json%2Ffcbip-sms%2Fv1%2Fcallback
+2025-04-17 22:21:49 - array (
+  'result' => 'ERR',
+  'code' => '106',
+  'message' => 'A callback paraméter formátuma hibás',
+)
+2025-04-17 22:29:18 - file_get_contents: https://api.bipkampany.hu/getbalance?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4
+2025-04-17 22:29:18 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'currency' => 'HUF',
+  'balance' => '5204.6',
+  'limit' => '0',
+)
+2025-04-17 23:09:17 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=hmhmhm&number=36307860808&senderid=&referenceid=11-212&callback=ALL
+2025-04-17 23:09:17 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 08:53:07 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=ezt+az+sms-t+k%C3%BCldje+el&number=36307860808&senderid=&referenceid=12-212&callback=ALL
+2025-04-18 08:53:07 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 08:55:03 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=J%C3%B3%2C+hogy+itt+vagy+%C3%A9s+regisztr%C3%A1lt%C3%A1l+a+fogy%C3%A1s+webin%C3%A1riumra.+Ezzel+a+c%C3%ADmmel%3A+koor.bela%40gmail.com+Ha+nem+kaptad+meg+az+email%C3%BCnket+%C3%ADrj+ide%3A+hiba%40sinkoangi.hu&number=36307860808&senderid=&referenceid=13-212&callback=ALL
+2025-04-18 08:55:03 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 09:00:14 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=J%C3%B3%2C+hogy+itt+vagy+%C3%A9s+regisztr%C3%A1lt%C3%A1l+a+fogy%C3%A1s+webin%C3%A1riumra.+Ezzel+a+c%C3%ADmmel%3A+koor.bela%40gmail.com+Ha+nem+kaptad+meg+az+email%C3%BCnket+%C3%ADrj+ide%3A+hiba%40sinkoangi.hu&number=36307860808&senderid=&referenceid=14-212&callback=ALL
+2025-04-18 09:00:14 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 09:03:10 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=J%C3%B3%2C+hogy+itt+vagy+%C3%A9s+regisztr%C3%A1lt%C3%A1l+a+fogy%C3%A1s+webin%C3%A1riumra.+Ezzel+a+c%C3%ADmmel%3A+koor.bela%40gmail.com+Ha+nem+kaptad+meg+az+email%C3%BCnket+%C3%ADrj+ide%3A+hiba%40sinkoangi.hu&number=36307860808&senderid=&referenceid=15-212&callback=ALL
+2025-04-18 09:03:10 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 09:03:10 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=J%C3%B3%2C+hogy+itt+vagy+%C3%A9s+regisztr%C3%A1lt%C3%A1l+a+fogy%C3%A1s+webin%C3%A1riumra.+Ezzel+a+c%C3%ADmmel%3A+koor.bela%40gmail.com+Ha+nem+kaptad+meg+az+email%C3%BCnket+%C3%ADrj+ide%3A+hiba%40sinkoangi.hu&number=36704330924&senderid=&referenceid=15-1389&callback=ALL
+2025-04-18 09:03:11 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 10:19:48 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=Most+m%C3%A1r+figyeli+a+delivered+st%C3%A1tuszt+is%2C+%C3%A9s+hozz%C3%A1adja+a+sent+sz%C3%A1ml%C3%A1l%C3%B3hoz%0D%0AHelyes+sz%C3%A1ml%C3%A1l%C3%A1st+v%C3%A9gez+mind+a+n%C3%A9gy+%C3%A1llapotra+%28sent%2C+delivered%2C+failed%2C+pending%29&number=36307860808&senderid=&referenceid=16-212&callback=ALL
+2025-04-18 10:19:48 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 10:19:48 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=Most+m%C3%A1r+figyeli+a+delivered+st%C3%A1tuszt+is%2C+%C3%A9s+hozz%C3%A1adja+a+sent+sz%C3%A1ml%C3%A1l%C3%B3hoz%0D%0AHelyes+sz%C3%A1ml%C3%A1l%C3%A1st+v%C3%A9gez+mind+a+n%C3%A9gy+%C3%A1llapotra+%28sent%2C+delivered%2C+failed%2C+pending%29&number=36704330924&senderid=&referenceid=16-1389&callback=ALL
+2025-04-18 10:19:48 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 10:27:34 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=%C3%A1rv%C3%ADzt%C5%B1r%C5%91+t%C3%BCk%C3%B6rf%C3%BAr%C3%B3g%C3%A9p&number=36307860808&senderid=&referenceid=17-212&callback=ALL
+2025-04-18 10:27:34 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 10:27:34 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=%C3%A1rv%C3%ADzt%C5%B1r%C5%91+t%C3%BCk%C3%B6rf%C3%BAr%C3%B3g%C3%A9p&number=36704330924&senderid=&referenceid=17-1389&callback=ALL
+2025-04-18 10:27:35 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 13:00:26 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=%C3%BAj+report+pr%C3%B3ba&number=36307860808&senderid=&referenceid=18-212&callback=ALL
+2025-04-18 13:00:27 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 15:17:48 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=na+n%C3%A9zz%C3%BCk+meg+mit+csin%C3%A1lsz+%3A%29&number=36307860808&senderid=&referenceid=19-212&callback=ALL
+2025-04-18 15:17:48 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 15:24:29 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=claudnak+teszt+sms+a+hiba+loghoz&number=36307860808&senderid=&referenceid=20-212&callback=ALL
+2025-04-18 15:24:29 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 15:37:46 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=na+%C3%BAjabb+teszt&number=36307860808&senderid=&referenceid=21-212&callback=ALL
+2025-04-18 15:37:47 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
+2025-04-18 15:44:57 - file_get_contents: https://api.bipkampany.hu/sendsms?email=kapcsolat%40sinkoangi.hu&password=nHbe8bB4&message=ez+egy+teszt+sms+lesz&number=36307860808&senderid=&referenceid=22-212&callback=ALL
+2025-04-18 15:44:57 - array (
+  'result' => 'OK',
+  'code' => '0',
+  'message' => 'A kérést sikeresen teljesítettük',
+  'price' => '15.9',
+  'split' => '1',
+)
